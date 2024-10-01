@@ -1,0 +1,3771 @@
+
+   [ {
+        "question": "What is the past tense of 'go'?",
+        "options": ["Going", "Went", "Gone", "Goes"],
+        "answer": "Went",
+        "explanation": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "Which of the following is in the present tense?",
+        "options": ["He goes to school.", "He went to school.", "He gone to school.", "He going to school."],
+        "answer": "He goes to school.",
+        "explanation": "'He goes to school.' is in the present tense."
+    },
+    {
+        "question": "What is the future tense of 'write'?",
+        "options": ["Wrote", "Writes", "Writing", "Will write"],
+        "answer": "Will write",
+        "explanation": "The future tense of 'write' is 'will write'."
+    },
+    {
+        "question": "Which sentence is in the past perfect tense?",
+        "options": ["She has finished her homework.", "She finished her homework.", "She had finished her homework.", "She will finish her homework."],
+        "answer": "She had finished her homework.",
+        "explanation": "The past perfect tense indicates an action completed before another past action."
+    },
+    {
+        "question": "Identify the present continuous tense in the options.",
+        "options": ["I am eating dinner.", "I eat dinner.", "I ate dinner.", "I will eat dinner."],
+        "answer": "I am eating dinner.",
+        "explanation": "'I am eating dinner.' describes an action currently in progress."
+    },
+    {
+        "question": "What is the correct form of 'to be' for 'they' in the present tense?",
+        "options": ["Is", "Am", "Are", "Was"],
+        "answer": "Are",
+        "explanation": "'They are' is the correct present tense form for the subject 'they'."
+    },
+    {
+        "question": "Which of these sentences is in the future tense?",
+        "options": ["She will visit her grandmother.", "She visits her grandmother.", "She visited her grandmother.", "She has visited her grandmother."],
+        "answer": "She will visit her grandmother.",
+        "explanation": "'She will visit her grandmother.' indicates an action that will happen in the future."
+    },
+    {
+        "question": "What is the past form of 'see'?",
+        "options": ["See", "Saw", "Seen", "Seeing"],
+        "answer": "Saw",
+        "explanation": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "Which sentence is in the simple past tense?",
+        "options": ["They are playing.", "They played.", "They play.", "They will play."],
+        "answer": "They played.",
+        "explanation": "'They played.' indicates a completed action in the past."
+    },
+    {
+        "question": "What is the present perfect tense of 'to finish'?",
+        "options": ["Finished", "Finishing", "Has finished", "Will finish"],
+        "answer": "Has finished",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which form indicates an action that is ongoing?",
+        "options": ["He was reading.", "He is reading.", "He has read.", "He will read."],
+        "answer": "He is reading.",
+        "explanation": "'He is reading.' is in the present continuous tense, indicating an ongoing action."
+    },
+    {
+        "question": "What is the future perfect tense of 'to complete'?",
+        "options": ["Will complete", "Has completed", "Had completed", "Will have completed"],
+        "answer": "Will have completed",
+        "explanation": "The future perfect tense indicates an action that will be completed before a specific time in the future."
+    },
+    {
+        "question": "Identify the correct sentence in the present tense.",
+        "options": ["They plays football.", "They played football.", "They play football.", "They playing football."],
+        "answer": "They play football.",
+        "explanation": "'They play football.' is correctly structured in the present tense."
+    },
+    {
+        "question": "What is the past participle of 'to eat'?",
+        "options": ["Eated", "Ate", "Eaten", "Eating"],
+        "answer": "Eaten",
+        "explanation": "The past participle of 'eat' is 'eaten'."
+    },
+    {
+        "question": "Which sentence uses the present perfect tense?",
+        "options": ["I have visited Paris.", "I visit Paris.", "I visited Paris.", "I will visit Paris."],
+        "answer": "I have visited Paris.",
+        "explanation": "The present perfect tense indicates an action that happened at an unspecified time before now."
+    },
+    {
+        "question": "What is the simple future tense of 'to play'?",
+        "options": ["Will play", "Played", "Plays", "Playing"],
+        "answer": "Will play",
+        "explanation": "'Will play' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which of these is an example of the past continuous tense?",
+        "options": ["I was reading a book.", "I read a book.", "I am reading a book.", "I will read a book."],
+        "answer": "I was reading a book.",
+        "explanation": "The past continuous tense describes an action that was in progress in the past."
+    },
+    {
+        "question": "What is the correct form of 'to do' for 'he' in the present tense?",
+        "options": ["Do", "Does", "Did", "Doing"],
+        "answer": "Does",
+        "explanation": "'He does' is the correct present tense form for the subject 'he'."
+    },
+    {
+        "question": "Which sentence is in the future continuous tense?",
+        "options": ["I will be eating.", "I am eating.", "I eat.", "I was eating."],
+        "answer": "I will be eating.",
+        "explanation": "'I will be eating.' describes an action that will be in progress at a specific time in the future."
+    },
+    {
+        "question": "What is the past form of 'run'?",
+        "options": ["Ran", "Runned", "Running", "Runs"],
+        "answer": "Ran",
+        "explanation": "The past tense of 'run' is 'ran'."
+    },
+    {
+        "question": "Identify the present perfect form of 'to break'.",
+        "options": ["Breaks", "Broke", "Has broken", "Will break"],
+        "answer": "Has broken",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence is in the simple future tense?",
+        "options": ["They will travel tomorrow.", "They travel tomorrow.", "They traveled tomorrow.", "They are traveling tomorrow."],
+        "answer": "They will travel tomorrow.",
+        "explanation": "'They will travel tomorrow.' indicates an action that will happen in the future."
+    },
+    {
+        "question": "What is the future perfect form of 'to have'?",
+        "options": ["Has had", "Will have had", "Had", "Having"],
+        "answer": "Will have had",
+        "explanation": "The future perfect tense indicates an action that will be completed before a specific time in the future."
+    },
+    {
+        "question": "Which form indicates an action completed before another action?",
+        "options": ["Present", "Past", "Future", "Past perfect"],
+        "answer": "Past perfect",
+        "explanation": "The past perfect tense shows that one action was completed before another in the past."
+    },
+    {
+        "question": "What is the present tense form of 'to be' for 'I'?",
+        "options": ["Is", "Am", "Are", "Was"],
+        "answer": "Am",
+        "explanation": "'I am' is the correct present tense form for the subject 'I'."
+    },
+    {
+        "question": "What is the past continuous form of 'to read'?",
+        "options": ["Was reading", "Read", "Is reading", "Will read"],
+        "answer": "Was reading",
+        "explanation": "The past continuous tense describes an ongoing action in the past."
+    },
+    {
+        "question": "Which sentence is in the future perfect tense?",
+        "options": ["I will have finished my homework.", "I finished my homework.", "I am finishing my homework.", "I will finish my homework."],
+        "answer": "I will have finished my homework.",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "What is the simple past tense of 'to sing'?",
+        "options": ["Sang", "Sung", "Singing", "Sings"],
+        "answer": "Sang",
+        "explanation": "The simple past tense of 'sing' is 'sang'."
+    },
+    {
+        "question": "Identify the correct sentence in the present continuous tense.",
+        "options": ["She is dancing.", "She danced.", "She dances.", "She will dance."],
+        "answer": "She is dancing.",
+        "explanation": "'She is dancing.' indicates an action currently happening."
+    },
+    {
+        "question": "Which of these sentences is in the past tense?",
+        "options": ["I will go to the store.", "I am going to the store.", "I went to the store.", "I go to the store."],
+        "answer": "I went to the store.",
+        "explanation": "'I went to the store.' is in the past tense."
+    },
+    {
+        "question": "What is the past participle of 'to give'?",
+        "options": ["Gave", "Given", "Giving", "Gives"],
+        "answer": "Given",
+        "explanation": "The past participle of 'give' is 'given'."
+    },
+    {
+        "question": "What is the future continuous form of 'to play'?",
+        "options": ["Will be playing", "Played", "Playing", "Plays"],
+        "answer": "Will be playing",
+        "explanation": "The future continuous tense indicates an action that will be in progress at a specific time in the future."
+    },
+    {
+        "question": "Which sentence is in the simple present tense?",
+        "options": ["She goes to school.", "She went to school.", "She is going to school.", "She will go to school."],
+        "answer": "She goes to school.",
+        "explanation": "'She goes to school.' is in the simple present tense."
+    },
+    {
+        "question": "Identify the correct past form of 'to swim'.",
+        "options": ["Swam", "Swimmed", "Swim", "Swimming"],
+        "answer": "Swam",
+        "explanation": "The past tense of 'swim' is 'swam'."
+    },
+    {
+        "question": "What is the present perfect form of 'to find'?",
+        "options": ["Finded", "Found", "Has found", "Finds"],
+        "answer": "Has found",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence uses the past perfect tense?",
+        "options": ["She had finished her work before dinner.", "She finished her work before dinner.", "She is finishing her work before dinner.", "She will finish her work before dinner."],
+        "answer": "She had finished her work before dinner.",
+        "explanation": "The past perfect tense indicates an action that was completed before another past action."
+    },
+    {
+        "question": "What is the simple future form of 'to laugh'?",
+        "options": ["Will laugh", "Laughed", "Laughs", "Laughing"],
+        "answer": "Will laugh",
+        "explanation": "'Will laugh' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which of these is an example of the present continuous tense?",
+        "options": ["I am watching TV.", "I watched TV.", "I watch TV.", "I will watch TV."],
+        "answer": "I am watching TV.",
+        "explanation": "'I am watching TV.' describes an ongoing action in the present."
+    },
+    {
+        "question": "What is the past tense of 'to build'?",
+        "options": ["Builded", "Built", "Building", "Builds"],
+        "answer": "Built",
+        "explanation": "The past tense of 'build' is 'built'."
+    },
+    {
+        "question": "What is the correct form for 'they' in the present tense?",
+        "options": ["Is", "Am", "Are", "Was"],
+        "answer": "Are",
+        "explanation": "'They are' is the correct present tense form for the subject 'they'."
+    },
+    {
+        "question": "Which sentence is in the future perfect tense?",
+        "options": ["They will have arrived by noon.", "They arrived by noon.", "They are arriving by noon.", "They will arrive by noon."],
+        "answer": "They will have arrived by noon.",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "What is the past form of 'to sit'?",
+        "options": ["Sat", "Sitted", "Sitting", "Sits"],
+        "answer": "Sat",
+        "explanation": "The past tense of 'sit' is 'sat'."
+    },
+    {
+        "question": "Identify the sentence in the present perfect tense.",
+        "options": ["I have seen that movie.", "I see that movie.", "I saw that movie.", "I will see that movie."],
+        "answer": "I have seen that movie.",
+        "explanation": "The present perfect tense indicates an action that happened at an unspecified time before now."
+    },
+    {
+        "question": "Which of these sentences is in the past continuous tense?",
+        "options": ["I was studying when you called.", "I studied when you called.", "I study when you call.", "I will study when you call."],
+        "answer": "I was studying when you called.",
+        "explanation": "The past continuous tense indicates an action that was in progress at a specific time in the past."
+    },
+    {
+        "question": "What is the future tense of 'to dance'?",
+        "options": ["Will dance", "Danced", "Dances", "Dancing"],
+        "answer": "Will dance",
+        "explanation": "'Will dance' indicates an action that will occur in the future."
+    },
+    {
+        "question": "Which sentence is in the simple present tense?",
+        "options": ["He runs every morning.", "He ran every morning.", "He is running every morning.", "He will run every morning."],
+        "answer": "He runs every morning.",
+        "explanation": "'He runs every morning.' is in the simple present tense."
+    },
+    {
+        "question": "What is the past participle of 'to take'?",
+        "options": ["Took", "Taken", "Taking", "Takes"],
+        "answer": "Taken",
+        "explanation": "The past participle of 'take' is 'taken'."
+    },
+    {
+        "question": "Which of these is an example of the present continuous tense?",
+        "options": ["She is running fast.", "She ran fast.", "She runs fast.", "She will run fast."],
+        "answer": "She is running fast.",
+        "explanation": "'She is running fast.' indicates an ongoing action in the present."
+    },
+    {
+        "question": "What is the correct future tense form of 'to call'?",
+        "options": ["Calls", "Called", "Will call", "Calling"],
+        "answer": "Will call",
+        "explanation": "'Will call' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which sentence uses the past perfect tense?",
+        "options": ["She had already eaten when he arrived.", "She ate when he arrived.", "She is eating when he arrives.", "She will eat when he arrives."],
+        "answer": "She had already eaten when he arrived.",
+        "explanation": "The past perfect tense indicates an action that was completed before another past action."
+    },
+    {
+        "question": "What is the simple present tense of 'to swim' for 'he'?",
+        "options": ["Swims", "Swim", "Swimming", "Swam"],
+        "answer": "Swims",
+        "explanation": "'He swims' is the simple present tense form for 'he'."
+    },
+    {
+        "question": "What is the future continuous tense of 'to watch'?",
+        "options": ["Will be watching", "Watched", "Watching", "Watches"],
+        "answer": "Will be watching",
+        "explanation": "The future continuous tense describes an action that will be in progress at a specific time in the future."
+    },
+    {
+        "question": "Which sentence is in the past continuous tense?",
+        "options": ["I was walking to school.", "I walked to school.", "I walk to school.", "I will walk to school."],
+        "answer": "I was walking to school.",
+        "explanation": "The past continuous tense describes an action that was in progress in the past."
+    },
+    {
+        "question": "What is the correct form of 'to be' for 'she' in the present tense?",
+        "options": ["Is", "Am", "Are", "Was"],
+        "answer": "Is",
+        "explanation": "'She is' is the correct present tense form for the subject 'she'."
+    },
+    {
+        "question": "What is the past form of 'to fly'?",
+        "options": ["Flyed", "Flew", "Flying", "Flies"],
+        "answer": "Flew",
+        "explanation": "The past tense of 'fly' is 'flew'."
+    },
+    {
+        "question": "Identify the correct present perfect tense of 'to lose'.",
+        "options": ["Has lost", "Loses", "Lost", "Losing"],
+        "answer": "Has lost",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence uses the future tense correctly?",
+        "options": ["I will travel to Paris next year.", "I traveled to Paris last year.", "I am traveling to Paris.", "I travel to Paris."],
+        "answer": "I will travel to Paris next year.",
+        "explanation": "'I will travel to Paris next year.' indicates an action that will happen in the future."
+    },
+    {
+        "question": "What is the past participle of 'to write'?",
+        "options": ["Wrote", "Writing", "Written", "Writes"],
+        "answer": "Written",
+        "explanation": "The past participle of 'write' is 'written'."
+    },
+    {
+        "question": "Which of these sentences is in the future continuous tense?",
+        "options": ["I will be studying at 5 PM.", "I studied at 5 PM.", "I am studying at 5 PM.", "I study at 5 PM."],
+        "answer": "I will be studying at 5 PM.",
+        "explanation": "'I will be studying at 5 PM.' describes an action that will be in progress at a specific time in the future."
+    },
+    {
+        "question": "What is the simple past tense of 'to drink'?",
+        "options": ["Drank", "Drunk", "Drinks", "Drinking"],
+        "answer": "Drank",
+        "explanation": "The simple past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "What is the present tense of 'to teach'?",
+        "options": ["Teaches", "Taught", "Teaching", "Teach"],
+        "answer": "Teach",
+        "explanation": "'Teach' is the base form used in the present tense."
+    },
+    {
+        "question": "Which sentence is in the past perfect tense?",
+        "options": ["They had left before I arrived.", "They left before I arrived.", "They are leaving before I arrive.", "They will leave before I arrive."],
+        "answer": "They had left before I arrived.",
+        "explanation": "The past perfect tense shows that one action was completed before another in the past."
+    },
+    {
+        "question": "What is the future tense of 'to jump'?",
+        "options": ["Will jump", "Jumped", "Jumps", "Jumping"],
+        "answer": "Will jump",
+        "explanation": "'Will jump' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which sentence uses the present continuous tense?",
+        "options": ["I am learning.", "I learned.", "I learn.", "I will learn."],
+        "answer": "I am learning.",
+        "explanation": "'I am learning.' indicates an action currently happening."
+    },
+    {
+        "question": "What is the correct past form of 'to tell'?",
+        "options": ["Told", "Tell", "Telling", "Tells"],
+        "answer": "Told",
+        "explanation": "The past tense of 'tell' is 'told'."
+    },
+    {
+        "question": "Identify the correct present perfect tense form of 'to see'.",
+        "options": ["Saw", "Seeing", "Has seen", "Sees"],
+        "answer": "Has seen",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence is in the future perfect tense?",
+        "options": ["I will have completed the project by Friday.", "I complete the project by Friday.", "I completed the project by Friday.", "I am completing the project by Friday."],
+        "answer": "I will have completed the project by Friday.",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "What is the simple present form of 'to buy' for 'he'?",
+        "options": ["Buys", "Buy", "Buying", "Bought"],
+        "answer": "Buys",
+        "explanation": "'He buys' is the simple present tense form for 'he'."
+    },
+    {
+        "question": "Which of these is an example of the past continuous tense?",
+        "options": ["I was watching a movie.", "I watched a movie.", "I watch a movie.", "I will watch a movie."],
+        "answer": "I was watching a movie.",
+        "explanation": "'I was watching a movie.' describes an action that was in progress in the past."
+    },
+    {
+        "question": "What is the future continuous form of 'to play'?",
+        "options": ["Will be playing", "Played", "Playing", "Plays"],
+        "answer": "Will be playing",
+        "explanation": "The future continuous tense indicates an action that will be in progress at a specific time in the future."
+    },
+    {
+        "question": "Which sentence is in the past tense?",
+        "options": ["She was happy.", "She is happy.", "She will be happy.", "She is being happy."],
+        "answer": "She was happy.",
+        "explanation": "'She was happy.' indicates a completed action in the past."
+    },
+    {
+        "question": "What is the correct present tense form of 'to know' for 'they'?",
+        "options": ["Knows", "Know", "Knowing", "Knew"],
+        "answer": "Know",
+        "explanation": "'They know' is the correct present tense form for the subject 'they'."
+    },
+    {
+        "question": "Which of these sentences is in the simple future tense?",
+        "options": ["I will eat lunch at noon.", "I eat lunch at noon.", "I ate lunch at noon.", "I am eating lunch at noon."],
+        "answer": "I will eat lunch at noon.",
+        "explanation": "'I will eat lunch at noon.' indicates an action that will happen in the future."
+    },
+    {
+        "question": "What is the past participle of 'to run'?",
+        "options": ["Ran", "Running", "Run", "Runs"],
+        "answer": "Run",
+        "explanation": "The past participle of 'run' is 'run'."
+    },
+    {
+        "question": "Identify the correct form for 'to make' in the present perfect tense.",
+        "options": ["Has made", "Made", "Makes", "Making"],
+        "answer": "Has made",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence uses the past continuous tense?",
+        "options": ["I was reading a book.", "I read a book.", "I am reading a book.", "I will read a book."],
+        "answer": "I was reading a book.",
+        "explanation": "The past continuous tense describes an action that was in progress at a specific time in the past."
+    },
+    {
+        "question": "What is the future tense of 'to help'?",
+        "options": ["Will help", "Helped", "Helps", "Helping"],
+        "answer": "Will help",
+        "explanation": "'Will help' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which sentence is in the simple present tense?",
+        "options": ["He goes to the gym.", "He went to the gym.", "He is going to the gym.", "He will go to the gym."],
+        "answer": "He goes to the gym.",
+        "explanation": "'He goes to the gym.' is in the simple present tense."
+    },
+    {
+        "question": "What is the past form of 'to buy'?",
+        "options": ["Buyed", "Bought", "Buying", "Buys"],
+        "answer": "Bought",
+        "explanation": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "What is the present perfect form of 'to grow'?",
+        "options": ["Grew", "Grown", "Has grown", "Growing"],
+        "answer": "Has grown",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence uses the future perfect tense?",
+        "options": ["I will have finished my homework by 5 PM.", "I finished my homework by 5 PM.", "I am finishing my homework by 5 PM.", "I will finish my homework by 5 PM."],
+        "answer": "I will have finished my homework by 5 PM.",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "What is the simple past tense of 'to begin'?",
+        "options": ["Begined", "Begun", "Began", "Beginning"],
+        "answer": "Began",
+        "explanation": "The simple past tense of 'begin' is 'began'."
+    },
+    {
+        "question": "Which of these is an example of the present continuous tense?",
+        "options": ["She is reading a book.", "She read a book.", "She reads a book.", "She will read a book."],
+        "answer": "She is reading a book.",
+        "explanation": "'She is reading a book.' indicates an ongoing action in the present."
+    },
+    {
+        "question": "What is the correct future form of 'to travel'?",
+        "options": ["Will travel", "Traveled", "Travels", "Traveling"],
+        "answer": "Will travel",
+        "explanation": "'Will travel' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which sentence uses the past perfect tense?",
+        "options": ["I had finished my dinner before he arrived.", "I finished my dinner before he arrived.", "I am finishing my dinner before he arrives.", "I will finish my dinner before he arrives."],
+        "answer": "I had finished my dinner before he arrived.",
+        "explanation": "The past perfect tense indicates that one action was completed before another in the past."
+    },
+    {
+        "question": "Which sentence is in the future simple tense?",
+        "options": ["She will dance at the party.", "She danced at the party.", "She is dancing at the party.", "She dances at the party."],
+        "answer": "She will dance at the party.",
+        "explanation": "'She will dance at the party.' indicates an action that will happen in the future."
+    },
+    {
+        "question": "What is the correct form of 'to lie' in the present perfect tense?",
+        "options": ["Has lain", "Lied", "Lies", "Laying"],
+        "answer": "Has lain",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle. The past participle of 'lie' is 'lain'."
+    },
+    {
+        "question": "Which sentence is in the present simple tense?",
+        "options": ["They play football every weekend.", "They played football last weekend.", "They are playing football now.", "They will play football next weekend."],
+        "answer": "They play football every weekend.",
+        "explanation": "'They play football every weekend.' is in the simple present tense."
+    },
+    {
+        "question": "What is the past continuous form of 'to watch'?",
+        "options": ["Was watching", "Watched", "Watches", "Will watch"],
+        "answer": "Was watching",
+        "explanation": "The past continuous tense describes an action that was in progress at a specific time in the past."
+    },
+    {
+        "question": "What is the future perfect form of 'to finish'?",
+        "options": ["Will have finished", "Finishes", "Finished", "Is finishing"],
+        "answer": "Will have finished",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "Which sentence is in the simple past tense?",
+        "options": ["I walked to school yesterday.", "I walk to school.", "I am walking to school.", "I will walk to school."],
+        "answer": "I walked to school yesterday.",
+        "explanation": "'I walked to school yesterday.' indicates a completed action in the past."
+    },
+    {
+        "question": "What is the correct present tense form of 'to have' for 'I'?",
+        "options": ["Has", "Have", "Having", "Had"],
+        "answer": "Have",
+        "explanation": "'I have' is the correct present tense form for the subject 'I'."
+    },
+    {
+        "question": "Identify the correct past tense of 'to sit'.",
+        "options": ["Sat", "Sitted", "Sitting", "Sits"],
+        "answer": "Sat",
+        "explanation": "The past tense of 'sit' is 'sat'."
+    },
+    {
+        "question": "Which of these sentences uses the future continuous tense?",
+        "options": ["I will be traveling to London next week.", "I traveled to London last week.", "I am traveling to London.", "I travel to London."],
+        "answer": "I will be traveling to London next week.",
+        "explanation": "'I will be traveling to London next week.' describes an action that will be in progress at a specific time in the future."
+    },
+    {
+        "question": "What is the simple future tense of 'to learn'?",
+        "options": ["Will learn", "Learned", "Learns", "Learning"],
+        "answer": "Will learn",
+        "explanation": "'Will learn' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which sentence is in the past perfect tense?",
+        "options": ["I had eaten breakfast before I left.", "I eat breakfast every day.", "I am eating breakfast now.", "I will eat breakfast tomorrow."],
+        "answer": "I had eaten breakfast before I left.",
+        "explanation": "The past perfect tense shows that one action was completed before another in the past."
+    },
+    {
+        "question": "What is the present continuous form of 'to read'?",
+        "options": ["Is reading", "Read", "Reads", "Reading"],
+        "answer": "Is reading",
+        "explanation": "'Is reading' indicates an action currently happening."
+    },
+    {
+        "question": "What is the correct form of 'to take' in the past tense?",
+        "options": ["Took", "Taken", "Takes", "Taking"],
+        "answer": "Took",
+        "explanation": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "Which of these sentences is in the future perfect tense?",
+        "options": ["I will have completed my homework by 6 PM.", "I complete my homework at 6 PM.", "I completed my homework at 6 PM.", "I am completing my homework at 6 PM."],
+        "answer": "I will have completed my homework by 6 PM.",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "What is the simple present form of 'to sing' for 'she'?",
+        "options": ["Sings", "Sang", "Singing", "Sing"],
+        "answer": "Sings",
+        "explanation": "'She sings' is the simple present tense form for 'she'."
+    },
+    {
+        "question": "Which sentence uses the past continuous tense?",
+        "options": ["I was studying when you called.", "I studied when you called.", "I am studying when you call.", "I will study when you call."],
+        "answer": "I was studying when you called.",
+        "explanation": "The past continuous tense describes an action that was in progress at a specific time in the past."
+    },
+    {
+        "question": "What is the future tense of 'to show'?",
+        "options": ["Will show", "Showed", "Shows", "Showing"],
+        "answer": "Will show",
+        "explanation": "'Will show' indicates an action that will happen in the future."
+    },
+    {
+        "question": "Which sentence is in the simple present tense?",
+        "options": ["They play soccer every Saturday.", "They played soccer last Saturday.", "They are playing soccer now.", "They will play soccer next Saturday."],
+        "answer": "They play soccer every Saturday.",
+        "explanation": "'They play soccer every Saturday.' is in the simple present tense."
+    },
+    {
+        "question": "What is the past form of 'to leave'?",
+        "options": ["Leave", "Leaving", "Left", "Leaved"],
+        "answer": "Left",
+        "explanation": "The past tense of 'leave' is 'left'."
+    },
+    {
+        "question": "What is the present perfect form of 'to win'?",
+        "options": ["Has won", "Won", "Winning", "Wins"],
+        "answer": "Has won",
+        "explanation": "The present perfect tense is formed with 'has/have' + past participle."
+    },
+    {
+        "question": "Which sentence uses the future perfect tense?",
+        "options": ["I will have cleaned my room by noon.", "I cleaned my room at noon.", "I am cleaning my room at noon.", "I will clean my room at noon."],
+        "answer": "I will have cleaned my room by noon.",
+        "explanation": "The future perfect tense indicates that an action will be completed before a certain future time."
+    },
+    {
+        "question": "Which modal is used to express ability?",
+        "options": ["must", "can", "may", "should"],
+        "answer": "can",
+        "explanation": "The modal 'can' is used to express ability or capability."
+    },
+    {
+        "question": "Which modal is used to express obligation?",
+        "options": ["may", "must", "could", "might"],
+        "answer": "must",
+        "explanation": "'Must' is used to indicate that something is necessary or obligatory."
+    },
+    {
+        "question": "Which modal suggests permission?",
+        "options": ["should", "may", "might", "could"],
+        "answer": "may",
+        "explanation": "'May' is often used to ask for or grant permission."
+    },
+    {
+        "question": "Which modal expresses a possibility?",
+        "options": ["must", "may", "should", "can"],
+        "answer": "may",
+        "explanation": "'May' is used to express a possibility or something that might happen."
+    },
+    {
+        "question": "Which modal is used to express a suggestion?",
+        "options": ["must", "should", "could", "might"],
+        "answer": "should",
+        "explanation": "'Should' is used to give advice or suggestions."
+    },
+    {
+        "question": "Which modal implies a weaker possibility than 'must'?",
+        "options": ["may", "might", "should", "can"],
+        "answer": "might",
+        "explanation": "'Might' indicates a possibility that is less certain than 'may'."
+    },
+    {
+        "question": "Which modal is used for making requests?",
+        "options": ["can", "must", "might", "should"],
+        "answer": "can",
+        "explanation": "'Can' is commonly used to make requests or ask for help."
+    },
+    {
+        "question": "Which modal is used to express a future obligation?",
+        "options": ["should", "must", "might", "could"],
+        "answer": "must",
+        "explanation": "'Must' indicates a strong obligation, even in the future."
+    },
+    {
+        "question": "Which modal is often used to express a past ability?",
+        "options": ["could", "can", "may", "might"],
+        "answer": "could",
+        "explanation": "'Could' is used to express ability in the past."
+    },
+    {
+        "question": "Which modal is often used for polite requests?",
+        "options": ["must", "should", "could", "can"],
+        "answer": "could",
+        "explanation": "'Could' is a more polite way to make requests compared to 'can'."
+    },
+    {
+        "question": "Which modal implies necessity?",
+        "options": ["might", "must", "may", "can"],
+        "answer": "must",
+        "explanation": "'Must' is used to indicate that something is necessary or required."
+    },
+    {
+        "question": "Which modal expresses a conditional possibility?",
+        "options": ["must", "might", "could", "should"],
+        "answer": "could",
+        "explanation": "'Could' is often used in conditional sentences to indicate a possibility."
+    },
+    {
+        "question": "Which modal is used to express a recommendation?",
+        "options": ["should", "must", "can", "may"],
+        "answer": "should",
+        "explanation": "'Should' is used to give recommendations or advice."
+    },
+    {
+        "question": "Which modal indicates strong certainty?",
+        "options": ["can", "might", "must", "may"],
+        "answer": "must",
+        "explanation": "'Must' indicates that something is certain or very likely."
+    },
+    {
+        "question": "Which modal is used for making a suggestion about the future?",
+        "options": ["should", "could", "might", "must"],
+        "answer": "should",
+        "explanation": "'Should' is often used to suggest actions for the future."
+    },
+    {
+        "question": "Which modal implies a choice or alternative?",
+        "options": ["should", "may", "can", "must"],
+        "answer": "may",
+        "explanation": "'May' can indicate an option or choice among alternatives."
+    },
+    {
+        "question": "Which modal expresses permission in a formal context?",
+        "options": ["may", "can", "might", "must"],
+        "answer": "may",
+        "explanation": "'May' is more formal and polite than 'can' when granting permission."
+    },
+    {
+        "question": "Which modal is used for expressing doubt?",
+        "options": ["might", "must", "could", "should"],
+        "answer": "might",
+        "explanation": "'Might' can express uncertainty or doubt about a situation."
+    },
+    {
+        "question": "Which modal is often used in conditional sentences?",
+        "options": ["may", "must", "could", "can"],
+        "answer": "could",
+        "explanation": "'Could' is frequently used in conditional sentences to indicate potential outcomes."
+    },
+    {
+        "question": "Which modal can suggest a hypothetical situation?",
+        "options": ["could", "should", "must", "may"],
+        "answer": "could",
+        "explanation": "'Could' is used to express hypothetical situations or possibilities."
+    },
+    {
+        "question": "Which modal is used to express a future intention?",
+        "options": ["might", "should", "will", "can"],
+        "answer": "will",
+        "explanation": "'Will' is commonly used to express future intentions or promises."
+    },
+    {
+        "question": "Which modal indicates a suggestion with a sense of obligation?",
+        "options": ["should", "can", "might", "may"],
+        "answer": "should",
+        "explanation": "'Should' indicates a suggestion that carries a sense of obligation."
+    },
+    {
+        "question": "Which modal is often used to ask for advice?",
+        "options": ["must", "should", "could", "may"],
+        "answer": "should",
+        "explanation": "'Should' is used when seeking advice or recommendations."
+    },
+    {
+        "question": "Which modal suggests a polite offer?",
+        "options": ["can", "could", "may", "must"],
+        "answer": "could",
+        "explanation": "'Could' is often used for making polite offers."
+    },
+    {
+        "question": "Which modal implies a permission that is not definite?",
+        "options": ["might", "may", "must", "should"],
+        "answer": "may",
+        "explanation": "'May' implies permission that is not absolute or certain."
+    },
+    {
+        "question": "Which modal indicates a strong recommendation?",
+        "options": ["must", "should", "might", "may"],
+        "answer": "should",
+        "explanation": "'Should' is often used to indicate strong recommendations."
+    },
+    {
+        "question": "Which modal is used to express past habits?",
+        "options": ["could", "can", "may", "must"],
+        "answer": "could",
+        "explanation": "'Could' is used to describe habits or abilities in the past."
+    },
+    {
+        "question": "Which modal expresses certainty about the past?",
+        "options": ["must", "might", "could", "may"],
+        "answer": "must",
+        "explanation": "'Must' can express strong certainty about past events."
+    },
+    {
+        "question": "Which modal can express a polite refusal?",
+        "options": ["can", "could", "must", "might"],
+        "answer": "could",
+        "explanation": "'Could' can be used to politely refuse an invitation or offer."
+    },
+    {
+        "question": "Which modal is used to give advice based on a condition?",
+        "options": ["must", "could", "might", "should"],
+        "answer": "should",
+        "explanation": "'Should' can provide advice that is contingent on certain conditions."
+    },
+    {
+        "question": "Which modal expresses a need to do something?",
+        "options": ["must", "may", "can", "might"],
+        "answer": "must",
+        "explanation": "'Must' expresses a strong need or necessity to perform an action."
+    },
+    {
+        "question": "Which modal suggests a possibility in the future?",
+        "options": ["may", "might", "must", "should"],
+        "answer": "may",
+        "explanation": "'May' indicates a possible occurrence in the future."
+    },
+    {
+        "question": "Which modal implies a request for permission?",
+        "options": ["may", "might", "could", "can"],
+        "answer": "can",
+        "explanation": "'Can' is used to ask for permission informally."
+    },
+    {
+        "question": "Which modal is used to express a polite suggestion?",
+        "options": ["should", "can", "might", "may"],
+        "answer": "might",
+        "explanation": "'Might' can express a polite suggestion or recommendation."
+    },
+    {
+        "question": "Which modal implies a strong prohibition?",
+        "options": ["mustn't", "should", "might", "may"],
+        "answer": "mustn't",
+        "explanation": "'Mustn't' is used to indicate that something is prohibited or not allowed."
+    },
+    {
+        "question": "Which modal can express a condition that is unlikely?",
+        "options": ["may", "could", "might", "must"],
+        "answer": "might",
+        "explanation": "'Might' suggests a possibility that is uncertain or unlikely."
+    },
+    {
+        "question": "Which modal is used to indicate an advice for someone else's action?",
+        "options": ["should", "can", "must", "may"],
+        "answer": "should",
+        "explanation": "'Should' is used to suggest actions for others to take."
+    },
+    {
+        "question": "Which modal suggests a more polite form of 'can'?",
+        "options": ["might", "must", "could", "should"],
+        "answer": "could",
+        "explanation": "'Could' is a more polite and formal alternative to 'can'."
+    },
+    {
+        "question": "Which modal indicates a polite expression of doubt?",
+        "options": ["might", "must", "should", "could"],
+        "answer": "might",
+        "explanation": "'Might' is often used to express doubt in a polite manner."
+    },
+    {
+        "question": "Which modal can be used to give strong advice?",
+        "options": ["might", "may", "must", "should"],
+        "answer": "must",
+        "explanation": "'Must' can provide strong advice or recommendations."
+    },
+    {
+        "question": "Which modal expresses a possibility with less certainty than 'may'?",
+        "options": ["might", "must", "should", "can"],
+        "answer": "might",
+        "explanation": "'Might' expresses a weaker possibility compared to 'may'."
+    },
+    {
+        "question": "Which modal is used to describe something that is generally allowed?",
+        "options": ["can", "may", "must", "should"],
+        "answer": "can",
+        "explanation": "'Can' is used to describe actions that are generally permissible."
+    },
+    {
+        "question": "Which modal expresses a strong likelihood?",
+        "options": ["might", "must", "could", "should"],
+        "answer": "must",
+        "explanation": "'Must' suggests a strong likelihood or certainty regarding a situation."
+    },
+    {
+        "question": "Which modal is often used in formal writing to express obligation?",
+        "options": ["might", "must", "may", "should"],
+        "answer": "must",
+        "explanation": "'Must' is commonly used in formal contexts to express obligation."
+    },
+    {
+        "question": "Which modal indicates a past necessity?",
+        "options": ["had to", "should", "must", "could"],
+        "answer": "had to",
+        "explanation": "'Had to' indicates a necessity that existed in the past."
+    },
+    {
+        "question": "Which modal suggests a future possibility?",
+        "options": ["may", "can", "must", "should"],
+        "answer": "may",
+        "explanation": "'May' is used to suggest a possible event or action in the future."
+    },
+    {
+        "question": "Which modal implies a lack of ability?",
+        "options": ["cannot", "might", "should", "must"],
+        "answer": "cannot",
+        "explanation": "'Cannot' expresses the idea that something is not possible or within ability."
+    },
+    {
+        "question": "Which modal is used to express a request for advice?",
+        "options": ["might", "may", "should", "must"],
+        "answer": "should",
+        "explanation": "'Should' is used when seeking advice or recommendations."
+    },
+    {
+        "question": "Which modal indicates an unconfirmed possibility?",
+        "options": ["might", "can", "must", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates something that is possible but not confirmed."
+    },
+    {
+        "question": "Which modal is often used to make offers?",
+        "options": ["can", "may", "must", "should"],
+        "answer": "can",
+        "explanation": "'Can' is often used when making offers or suggestions."
+    },
+    {
+        "question": "Which modal indicates a strong requirement?",
+        "options": ["must", "may", "could", "might"],
+        "answer": "must",
+        "explanation": "'Must' indicates a strong requirement or necessity."
+    },
+    {
+        "question": "Which modal is used for past abilities?",
+        "options": ["can", "could", "should", "might"],
+        "answer": "could",
+        "explanation": "'Could' is the past form of 'can', used to express past abilities."
+    },
+    {
+        "question": "Which modal suggests an obligation that is not strong?",
+        "options": ["should", "must", "could", "may"],
+        "answer": "should",
+        "explanation": "'Should' suggests an obligation, but it is not as strong as 'must'."
+    },
+    {
+        "question": "Which modal expresses a suggestion that is not obligatory?",
+        "options": ["should", "must", "can", "may"],
+        "answer": "may",
+        "explanation": "'May' can suggest a choice or option rather than an obligation."
+    },
+    {
+        "question": "Which modal implies a recommendation?",
+        "options": ["should", "must", "could", "might"],
+        "answer": "should",
+        "explanation": "'Should' is used to give recommendations or advice."
+    },
+    {
+        "question": "Which modal expresses uncertainty in a polite way?",
+        "options": ["might", "can", "must", "should"],
+        "answer": "might",
+        "explanation": "'Might' expresses uncertainty in a more polite or tentative way."
+    },
+    {
+        "question": "Which modal indicates a general truth?",
+        "options": ["can", "should", "must", "may"],
+        "answer": "can",
+        "explanation": "'Can' is used to express general truths or capabilities."
+    },
+    {
+        "question": "Which modal suggests a polite request?",
+        "options": ["might", "could", "must", "should"],
+        "answer": "could",
+        "explanation": "'Could' is often used for polite requests."
+    },
+    {
+        "question": "Which modal implies permission that is granted?",
+        "options": ["can", "may", "must", "should"],
+        "answer": "may",
+        "explanation": "'May' implies permission that is formally granted."
+    },
+    {
+        "question": "Which modal indicates a future obligation?",
+        "options": ["should", "could", "must", "might"],
+        "answer": "must",
+        "explanation": "'Must' indicates an obligation that will occur in the future."
+    },
+    {
+        "question": "Which modal expresses a possibility that is more than a guess?",
+        "options": ["might", "may", "must", "could"],
+        "answer": "may",
+        "explanation": "'May' expresses a possibility that is more certain than 'might'."
+    },
+    {
+        "question": "Which modal can suggest a hypothetical situation?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' can suggest a hypothetical or unreal situation."
+    },
+    {
+        "question": "Which modal is used to express something that is not allowed?",
+        "options": ["can", "might", "mustn't", "should"],
+        "answer": "mustn't",
+        "explanation": "'Mustn't' is used to indicate that something is prohibited."
+    },
+    {
+        "question": "Which modal is used for actions that are allowed?",
+        "options": ["can", "might", "must", "should"],
+        "answer": "can",
+        "explanation": "'Can' indicates actions that are permissible or allowed."
+    },
+    {
+        "question": "Which modal expresses a polite way of making a suggestion?",
+        "options": ["should", "may", "might", "can"],
+        "answer": "might",
+        "explanation": "'Might' can be used to make a suggestion in a polite manner."
+    },
+    {
+        "question": "Which modal indicates strong permission?",
+        "options": ["can", "must", "should", "may"],
+        "answer": "can",
+        "explanation": "'Can' indicates strong permission to do something."
+    },
+    {
+        "question": "Which modal expresses an obligation that is more of a recommendation?",
+        "options": ["should", "must", "may", "might"],
+        "answer": "should",
+        "explanation": "'Should' implies a recommended action, but not a strict requirement."
+    },
+    {
+        "question": "Which modal suggests a future possibility with less certainty?",
+        "options": ["might", "must", "should", "can"],
+        "answer": "might",
+        "explanation": "'Might' suggests a future possibility but with less certainty than 'may'."
+    },
+    {
+        "question": "Which modal is often used to give advice?",
+        "options": ["should", "may", "might", "must"],
+        "answer": "should",
+        "explanation": "'Should' is commonly used to provide advice or suggestions."
+    },
+    {
+        "question": "Which modal is used for asking permission informally?",
+        "options": ["might", "may", "can", "must"],
+        "answer": "can",
+        "explanation": "'Can' is frequently used to ask for permission in informal contexts."
+    },
+    {
+        "question": "Which modal indicates that something is uncertain?",
+        "options": ["might", "must", "may", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates uncertainty or a lesser degree of possibility."
+    },
+    {
+        "question": "Which modal suggests an action that is necessary?",
+        "options": ["might", "can", "must", "may"],
+        "answer": "must",
+        "explanation": "'Must' suggests that an action is necessary or required."
+    },
+    {
+        "question": "Which modal expresses a polite way of refusing?",
+        "options": ["could", "might", "must", "should"],
+        "answer": "could",
+        "explanation": "'Could' can be used as a polite way to refuse an invitation or request."
+    },
+    {
+        "question": "Which modal indicates a general capability?",
+        "options": ["can", "might", "may", "should"],
+        "answer": "can",
+        "explanation": "'Can' expresses general capabilities or skills."
+    },
+    {
+        "question": "Which modal implies a condition for permission?",
+        "options": ["may", "can", "might", "must"],
+        "answer": "may",
+        "explanation": "'May' can imply that permission is granted under certain conditions."
+    },
+    {
+        "question": "Which modal is used to express a future action that is planned?",
+        "options": ["will", "might", "must", "can"],
+        "answer": "will",
+        "explanation": "'Will' expresses future intentions or plans."
+    },
+    {
+        "question": "Which modal indicates that something is prohibited?",
+        "options": ["mustn't", "can", "may", "should"],
+        "answer": "mustn't",
+        "explanation": "'Mustn't' indicates a prohibition or something that is not allowed."
+    },
+    {
+        "question": "Which modal expresses a suggestion that carries less weight?",
+        "options": ["might", "must", "should", "can"],
+        "answer": "might",
+        "explanation": "'Might' suggests an option but does not impose a strong recommendation."
+    },
+    {
+        "question": "Which modal indicates a possible future occurrence?",
+        "options": ["may", "must", "might", "should"],
+        "answer": "may",
+        "explanation": "'May' indicates something that could possibly happen in the future."
+    },
+    {
+        "question": "Which modal expresses a suggestion based on personal opinion?",
+        "options": ["might", "should", "must", "can"],
+        "answer": "should",
+        "explanation": "'Should' is often used to express a suggestion based on personal opinion."
+    },
+    {
+        "question": "Which modal suggests an unlikely condition?",
+        "options": ["might", "can", "must", "should"],
+        "answer": "might",
+        "explanation": "'Might' suggests a condition that is less likely to occur."
+    },
+    {
+        "question": "Which modal indicates an invitation?",
+        "options": ["might", "can", "should", "may"],
+        "answer": "can",
+        "explanation": "'Can' is sometimes used to extend an invitation."
+    },
+    {
+        "question": "Which modal indicates a requirement that is mandatory?",
+        "options": ["should", "must", "might", "can"],
+        "answer": "must",
+        "explanation": "'Must' indicates a requirement that is mandatory or compulsory."
+    },
+    {
+        "question": "Which modal expresses a polite suggestion for someone else?",
+        "options": ["could", "should", "might", "may"],
+        "answer": "could",
+        "explanation": "'Could' is often used to suggest actions for someone else in a polite manner."
+    },
+    {
+        "question": "Which modal is used to imply that something is permissible?",
+        "options": ["can", "may", "might", "must"],
+        "answer": "can",
+        "explanation": "'Can' implies that something is permissible or allowed."
+    },
+    {
+        "question": "Which modal expresses a past recommendation?",
+        "options": ["should have", "could have", "might have", "must have"],
+        "answer": "should have",
+        "explanation": "'Should have' is used to indicate a recommendation for a past action."
+    },
+    {
+        "question": "Which modal suggests a formal request for permission?",
+        "options": ["may", "might", "can", "should"],
+        "answer": "may",
+        "explanation": "'May' is often used to make formal requests for permission."
+    },
+    {
+        "question": "Which modal expresses a sense of regret for not doing something?",
+        "options": ["should have", "could have", "might have", "must have"],
+        "answer": "should have",
+        "explanation": "'Should have' expresses regret or a missed obligation in the past."
+    },
+    {
+        "question": "Which modal is used to express a polite refusal?",
+        "options": ["can", "could", "must", "should"],
+        "answer": "could",
+        "explanation": "'Could' is often used to politely refuse an offer or invitation."
+    },
+    {
+        "question": "Which modal suggests a potential future action?",
+        "options": ["will", "might", "may", "can"],
+        "answer": "may",
+        "explanation": "'May' suggests a potential action that could happen in the future."
+    },
+    {
+        "question": "Which modal is used to give a suggestion about what someone should do?",
+        "options": ["should", "must", "can", "may"],
+        "answer": "should",
+        "explanation": "'Should' is often used to give suggestions about someone's actions."
+    },
+    {
+        "question": "Which modal expresses a necessary action that is required?",
+        "options": ["must", "should", "could", "may"],
+        "answer": "must",
+        "explanation": "'Must' expresses a necessary action that is required."
+    },
+    {
+        "question": "Which modal indicates an action that could potentially happen?",
+        "options": ["might", "can", "must", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates an action that has the potential to happen, but is uncertain."
+    },
+    {
+        "question": "Which modal expresses a past ability that someone had?",
+        "options": ["could", "can", "may", "must"],
+        "answer": "could",
+        "explanation": "'Could' is used to express abilities someone had in the past."
+    },
+    {
+        "question": "Which modal implies an expectation for the future?",
+        "options": ["might", "should", "can", "must"],
+        "answer": "should",
+        "explanation": "'Should' implies an expectation or belief about what will happen in the future."
+    },
+    {
+        "question": "Which modal is used to grant permission in an informal context?",
+        "options": ["can", "might", "may", "must"],
+        "answer": "can",
+        "explanation": "'Can' is used to give permission in informal contexts."
+    },
+    {
+        "question": "Which modal expresses doubt about a situation?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' expresses doubt or uncertainty about a situation."
+    },
+    {
+        "question": "Which modal suggests a strong recommendation for an action?",
+        "options": ["must", "should", "might", "can"],
+        "answer": "should",
+        "explanation": "'Should' suggests a strong recommendation for an action."
+    },
+    {
+        "question": "Which modal indicates an unconfirmed possibility in the future?",
+        "options": ["might", "may", "must", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates something that is possible but not confirmed for the future."
+    },
+    {
+        "question": "Which modal implies a strong obligation in the present?",
+        "options": ["must", "might", "can", "should"],
+        "answer": "must",
+        "explanation": "'Must' indicates a strong obligation that exists in the present."
+    },
+    {
+        "question": "Which modal suggests a polite way of asking for permission?",
+        "options": ["might", "can", "should", "may"],
+        "answer": "may",
+        "explanation": "'May' is often used as a polite way to ask for permission."
+    },
+    {
+        "question": "Which modal expresses a possibility that something will happen?",
+        "options": ["may", "might", "can", "must"],
+        "answer": "may",
+        "explanation": "'May' indicates a possibility that something could happen in the future."
+    },
+    {
+        "question": "Which modal is used to describe something that is unlikely to happen?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' describes situations that are unlikely or uncertain."
+    },
+    {
+        "question": "Which modal expresses a request for help?",
+        "options": ["can", "may", "should", "must"],
+        "answer": "can",
+        "explanation": "'Can' is often used when making a request for help."
+    },
+    {
+        "question": "Which modal indicates a requirement that is essential?",
+        "options": ["must", "may", "should", "might"],
+        "answer": "must",
+        "explanation": "'Must' indicates a requirement that is essential or necessary."
+    },
+    {
+        "question": "Which modal is used to express a future intention?",
+        "options": ["will", "should", "could", "might"],
+        "answer": "will",
+        "explanation": "'Will' is used to express a future intention or plan."
+    },
+    {
+        "question": "Which modal indicates a possibility that is less certain than 'may'?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates a lesser degree of certainty compared to 'may'."
+    },
+    {
+        "question": "Which modal suggests a lack of necessity?",
+        "options": ["mustn't", "may", "can", "should"],
+        "answer": "may",
+        "explanation": "'May' can imply that there is no necessity for something to happen."
+    },
+    {
+        "question": "Which modal implies a condition for permission that may not always be granted?",
+        "options": ["might", "can", "must", "may"],
+        "answer": "may",
+        "explanation": "'May' can imply that permission is granted under certain conditions."
+    },
+    {
+        "question": "Which modal expresses an intention or future action?",
+        "options": ["will", "might", "should", "must"],
+        "answer": "will",
+        "explanation": "'Will' expresses an intention or a future action that is planned."
+    },
+    {
+        "question": "Which modal is used to express a future prediction?",
+        "options": ["will", "might", "can", "should"],
+        "answer": "will",
+        "explanation": "'Will' is used to express predictions about the future."
+    },
+    {
+        "question": "Which modal suggests that something is likely to happen?",
+        "options": ["might", "may", "must", "can"],
+        "answer": "may",
+        "explanation": "'May' suggests a likelihood or possibility of something happening."
+    },
+    {
+        "question": "Which modal is used to indicate a hypothetical situation?",
+        "options": ["could", "must", "may", "will"],
+        "answer": "could",
+        "explanation": "'Could' is often used to indicate hypothetical situations or possibilities."
+    },
+    {
+        "question": "Which modal expresses a lack of ability in the past?",
+        "options": ["couldn't", "can't", "mustn't", "shouldn't"],
+        "answer": "couldn't",
+        "explanation": "'Couldn't' expresses a lack of ability in the past."
+    },
+    {
+        "question": "Which modal suggests that something is permitted?",
+        "options": ["may", "must", "can", "might"],
+        "answer": "can",
+        "explanation": "'Can' is often used to indicate that something is allowed or permitted."
+    },
+    {
+        "question": "Which modal is used to give advice based on obligation?",
+        "options": ["should", "might", "may", "could"],
+        "answer": "should",
+        "explanation": "'Should' gives advice based on what is considered the right action."
+    },
+    {
+        "question": "Which modal indicates a suggestion that is not very strong?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates a suggestion that carries less weight and is more uncertain."
+    },
+    {
+        "question": "Which modal is used to express a past ability that is no longer true?",
+        "options": ["could", "might", "should", "must"],
+        "answer": "could",
+        "explanation": "'Could' indicates abilities that someone had in the past but may not have now."
+    },
+    {
+        "question": "Which modal expresses a strong recommendation for someone else's action?",
+        "options": ["should", "might", "must", "can"],
+        "answer": "should",
+        "explanation": "'Should' is used to strongly recommend an action to someone else."
+    },
+    {
+        "question": "Which modal indicates something is not allowed?",
+        "options": ["mustn't", "can", "may", "might"],
+        "answer": "mustn't",
+        "explanation": "'Mustn't' indicates that something is prohibited or not allowed."
+    },
+    {
+        "question": "Which modal suggests a future possibility?",
+        "options": ["may", "might", "should", "must"],
+        "answer": "might",
+        "explanation": "'Might' suggests that something could possibly happen in the future."
+    },
+    {
+        "question": "Which modal implies a requirement that is optional?",
+        "options": ["should", "must", "could", "may"],
+        "answer": "could",
+        "explanation": "'Could' implies that there is an option but not an obligation."
+    },
+    {
+        "question": "Which modal is used for making requests?",
+        "options": ["can", "may", "must", "should"],
+        "answer": "can",
+        "explanation": "'Can' is often used to make informal requests."
+    },
+    {
+        "question": "Which modal indicates a strong suggestion?",
+        "options": ["must", "should", "might", "can"],
+        "answer": "must",
+        "explanation": "'Must' is used to indicate a strong suggestion or necessity."
+    },
+    {
+        "question": "Which modal suggests something is a possibility but not certain?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' indicates a possibility without certainty."
+    },
+    {
+        "question": "Which modal is used to express an obligation that is not strong?",
+        "options": ["should", "must", "may", "might"],
+        "answer": "should",
+        "explanation": "'Should' implies an obligation but is not as strong as 'must'."
+    },
+    {
+        "question": "Which modal expresses a polite suggestion?",
+        "options": ["should", "might", "can", "must"],
+        "answer": "should",
+        "explanation": "'Should' is often used to express polite suggestions."
+    },
+    {
+        "question": "Which modal indicates that permission has been granted?",
+        "options": ["may", "must", "can", "might"],
+        "answer": "may",
+        "explanation": "'May' indicates that permission has been granted to do something."
+    },
+    {
+        "question": "Which modal implies that something is unlikely to occur?",
+        "options": ["might", "can", "must", "should"],
+        "answer": "might",
+        "explanation": "'Might' can indicate that something is possible but not likely to occur."
+    },
+    {
+        "question": "Which modal expresses a future commitment?",
+        "options": ["will", "may", "can", "should"],
+        "answer": "will",
+        "explanation": "'Will' expresses a commitment to perform an action in the future."
+    },
+    {
+        "question": "Which modal is used to indicate a suggestion based on evidence?",
+        "options": ["should", "may", "must", "can"],
+        "answer": "must",
+        "explanation": "'Must' is often used to indicate a strong suggestion based on evidence."
+    },
+    {
+        "question": "Which modal expresses an uncertainty about an obligation?",
+        "options": ["might", "should", "must", "could"],
+        "answer": "might",
+        "explanation": "'Might' expresses uncertainty about whether an obligation exists."
+    },
+    {
+        "question": "Which modal suggests a polite way of declining an offer?",
+        "options": ["could", "might", "should", "must"],
+        "answer": "could",
+        "explanation": "'Could' is often used to politely decline an offer."
+    },
+    {
+        "question": "Which modal indicates an action that is mandatory?",
+        "options": ["must", "might", "can", "may"],
+        "answer": "must",
+        "explanation": "'Must' indicates that an action is required or mandatory."
+    },
+    {
+        "question": "Which modal is used for expressing possibility in the past?",
+        "options": ["might have", "could have", "must have", "should have"],
+        "answer": "might have",
+        "explanation": "'Might have' is used to express possibility in the past."
+    },
+    {
+        "question": "Which modal suggests that something is possible but less likely than 'may'?",
+        "options": ["might", "must", "can", "should"],
+        "answer": "might",
+        "explanation": "'Might' suggests something is possible, but with less certainty than 'may'."
+    },
+    {
+        "question": "Which modal is used to express permission in a formal context?",
+        "options": ["may", "can", "might", "must"],
+        "answer": "may",
+        "explanation": "'May' is often used for formal requests or granting permission."
+    },
+    {
+        "question": "Which modal expresses a suggestion that is based on expertise?",
+        "options": ["should", "must", "could", "may"],
+        "answer": "should",
+        "explanation": "'Should' is often used to suggest actions based on expertise or knowledge."
+    },
+    {
+        "question": "Which sentence uses the correct subject-verb agreement?",
+        "options": ["The cat eat the food.", "The cats eats the food.", "The cat eats the food.", "The cat eating the food."],
+        "answer": "The cat eats the food.",
+        "explanation": "In this sentence, 'cat' is singular, and 'eats' is the correct singular form of the verb."
+    },
+    {
+        "question": "What is the correct verb form for the sentence: 'She _____ to school every day.'?",
+        "options": ["go", "goes", "going", "gone"],
+        "answer": "goes",
+        "explanation": "'She' is singular, so we use the singular form 'goes'."
+    },
+    {
+        "question": "Which sentence is incorrect?",
+        "options": ["The dogs bark loudly.", "The dog barks loudly.", "The dog bark loudly.", "The cats are sleeping."],
+        "answer": "The dog bark loudly.",
+        "explanation": "The subject 'dog' is singular, so the verb should be 'barks' not 'bark'."
+    },
+    {
+        "question": "Choose the correct form: 'Neither the teacher nor the students _____ here.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "When 'neither/nor' is used, the verb agrees with the nearest subject, which is 'students' (plural)."
+    },
+    {
+        "question": "What is the correct verb for: 'Each of the players _____ a medal.'?",
+        "options": ["receive", "receives", "received", "receiving"],
+        "answer": "receives",
+        "explanation": "'Each' is a singular subject, so we use 'receives'."
+    },
+    {
+        "question": "Which is the correct subject-verb pair?",
+        "options": ["The team are winning.", "The team wins.", "The team win.", "The team winning."],
+        "answer": "The team wins.",
+        "explanation": "The word 'team' is a collective noun treated as singular, so we use 'wins'."
+    },
+    {
+        "question": "Select the correct form: 'Either the boy or the girls _____ playing outside.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "With 'either/or', the verb agrees with the nearest subject, 'girls' (plural)."
+    },
+    {
+        "question": "Choose the correct option: 'None of the cake _____ left.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "When 'none' refers to a singular mass noun like 'cake', it takes 'is'."
+    },
+    {
+        "question": "What is the correct form for: 'A group of students _____ going on a trip.'?",
+        "options": ["is", "are", "were", "was"],
+        "answer": "is",
+        "explanation": "'A group' is singular, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The books on the table is new.", "The book on the table are new.", "The book on the table is new.", "The books on the table are new."],
+        "answer": "The book on the table is new.",
+        "explanation": "The subject 'book' is singular, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct verb form: 'Many of the students _____ participating in the competition.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "The subject 'students' is plural, so we use 'are'."
+    },
+    {
+        "question": "What is the correct form: 'Everyone _____ invited to the party.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Everyone' is a singular pronoun, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The team are playing well.", "The team plays well.", "The team play well.", "The team playing well."],
+        "answer": "The team plays well.",
+        "explanation": "The collective noun 'team' is treated as singular, so 'plays' is correct."
+    },
+    {
+        "question": "Select the correct verb: 'Either the cat or the dogs _____ causing trouble.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "The nearest subject 'dogs' is plural, so we use 'are'."
+    },
+    {
+        "question": "What is the correct verb for: 'The jury _____ making its decision.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "The word 'jury' is a collective noun treated as singular, so we use 'is'."
+    },
+    {
+        "question": "Which of these sentences is incorrect?",
+        "options": ["The dog and the cat is playing.", "The dog barks.", "The cats are playful.", "The dog and cat are friends."],
+        "answer": "The dog and the cat is playing.",
+        "explanation": "The subject 'dog and cat' is compound and plural, so it requires 'are', not 'is'."
+    },
+    {
+        "question": "Choose the correct form: 'Neither the rain nor the snow _____ stopping.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "The verb agrees with the nearest subject 'snow' (singular)."
+    },
+    {
+        "question": "What is the correct verb form for: 'All of the pizza _____ gone.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'All' refers to a singular mass noun 'pizza', so we use 'is'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The flock of birds are flying.", "The flock of birds is flying.", "The flocks of birds is flying.", "The flock of bird are flying."],
+        "answer": "The flock of birds is flying.",
+        "explanation": "'Flock' is singular, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct option: 'Each student _____ responsible for their own work.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Each' is singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb for: 'Some of the cake _____ left on the table.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Some' can be singular or plural depending on the noun it refers to; here, it refers to 'cake', which is singular."
+    },
+    {
+        "question": "Which sentence uses the correct subject-verb agreement?",
+        "options": ["The class have a trip tomorrow.", "The classes has a trip tomorrow.", "The class has a trip tomorrow.", "The class are having a trip tomorrow."],
+        "answer": "The class has a trip tomorrow.",
+        "explanation": "The subject 'class' is singular, so we use 'has'."
+    },
+    {
+        "question": "What is the correct form: 'None of the information _____ relevant.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Information' is a singular noun, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is incorrect?",
+        "options": ["The news are surprising.", "The news is surprising.", "The information is useful.", "The data are collected."],
+        "answer": "The news are surprising.",
+        "explanation": "'News' is a singular noun, so it should be followed by 'is', not 'are'."
+    },
+    {
+        "question": "Choose the correct form: 'The committee _____ meeting tomorrow.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Committee' is a collective noun treated as singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb form for: 'The group of children _____ playing outside.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'The group' is singular, so we use 'is'."
+    },
+    {
+        "question": "Which sentence uses the correct subject-verb agreement?",
+        "options": ["The books on the shelf is dusty.", "The book on the shelf are dusty.", "The books on the shelf are dusty.", "The book on the shelf is dusty."],
+        "answer": "The books on the shelf are dusty.",
+        "explanation": "'Books' is plural, so we use 'are'."
+    },
+    {
+        "question": "Choose the correct form: 'Many of the flowers _____ blooming this spring.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'Many' is a plural subject, so we use 'are'."
+    },
+    {
+        "question": "What is the correct form for: 'Either the cake or the cookies _____ ready.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "The nearest subject 'cookies' is plural, so we use 'are'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["All of the students is present.", "All of the student are present.", "All of the students are present.", "All of the students was present."],
+        "answer": "All of the students are present.",
+        "explanation": "'Students' is plural, so we use 'are'."
+    },
+    {
+        "question": "Choose the correct verb form: 'The pair of shoes _____ on sale.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Pair' is singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb for: 'Either the teacher or the students _____ responsible for this project.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "With 'either/or', the verb agrees with the nearest subject, 'students' (plural)."
+    },
+    {
+        "question": "Which sentence uses the correct subject-verb agreement?",
+        "options": ["The family are having dinner.", "The family is having dinner.", "The families is having dinner.", "The families are having dinner."],
+        "answer": "The family is having dinner.",
+        "explanation": "'Family' is a collective noun treated as singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct form for: 'The herd of cattle _____ grazing in the field.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Herd' is singular, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is incorrect?",
+        "options": ["Each of the players were ready.", "Each of the players is ready.", "Each of the player is ready.", "Each of the players has their own equipment."],
+        "answer": "Each of the players were ready.",
+        "explanation": "'Each' is singular, so it should be followed by 'was' or 'is', not 'were'."
+    },
+    {
+        "question": "Choose the correct verb: 'The committee _____ to make a decision.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Committee' is a collective noun treated as singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct form for: 'All of the furniture _____ new.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Furniture' is a singular mass noun, so we use 'is'."
+    },
+    {
+        "question": "Which of the following sentences is correct?",
+        "options": ["The group of musicians are talented.", "The group of musicians is talented.", "The musicians of the group is talented.", "The musicians of the group are talented."],
+        "answer": "The group of musicians is talented.",
+        "explanation": "The subject 'group' is singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb form: 'The team _____ their game last week.'?",
+        "options": ["win", "wins", "won", "winning"],
+        "answer": "won",
+        "explanation": "The past tense 'won' is appropriate since the game happened last week."
+    },
+    {
+        "question": "Choose the correct form: 'Each of the dogs _____ barking loudly.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Each' is singular, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is incorrect?",
+        "options": ["The committee are deciding on the issue.", "The committee is deciding on the issue.", "The members of the committee are voting.", "The committee has made a decision."],
+        "answer": "The committee are deciding on the issue.",
+        "explanation": "'Committee' is treated as a singular noun, so it should be 'is'."
+    },
+    {
+        "question": "What is the correct verb for: 'A number of students _____ absent today.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "The phrase 'a number of' indicates a plural subject, so we use 'are'."
+    },
+    {
+        "question": "Select the correct form: 'Some of the cake _____ left on the table.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Cake' is treated as singular here, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct verb: 'None of the apples _____ ripe yet.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'None' can be plural, so we use 'are' when referring to 'apples'."
+    },
+    {
+        "question": "What is the correct verb form: 'A pair of shoes _____ missing.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Pair' is singular, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The flock of sheep are grazing.", "The flock of sheep is grazing.", "The flocks of sheep is grazing.", "The flock of sheeps are grazing."],
+        "answer": "The flock of sheep is grazing.",
+        "explanation": "'Flock' is singular, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct form: 'Both the teacher and the student _____ ready.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "With 'both/and', the verb agrees with the plural subjects, so we use 'are'."
+    },
+    {
+        "question": "What is the correct verb for: 'The box of chocolates _____ on the table.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Box' is singular, so we use 'is'."
+    },
+    {
+        "question": "Which of these sentences is incorrect?",
+        "options": ["Each of the cars is new.", "All of the cars are new.", "Either the teacher or the students is late.", "Neither the students nor the teacher is happy."],
+        "answer": "Either the teacher or the students is late.",
+        "explanation": "The nearest subject 'students' is plural, so it should be 'are'."
+    },
+    {
+        "question": "Select the correct verb: 'The herd of elephants _____ moving slowly.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Herd' is singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct form: 'Neither of the options _____ appealing.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Neither' is treated as singular, so we use 'is'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The information are useful.", "The information is useful.", "The informations is useful.", "The informations are useful."],
+        "answer": "The information is useful.",
+        "explanation": "'Information' is singular, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct option: 'The group _____ going on a trip next week.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Group' is singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb form for: 'A couple of friends _____ coming over tonight.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'A couple of' indicates a plural subject, so we use 'are'."
+    },
+    {
+        "question": "Which of these sentences is correct?",
+        "options": ["The audience was clapping.", "The audience were clapping.", "The audiences were clapping.", "The audience is clapping."],
+        "answer": "The audience was clapping.",
+        "explanation": "'Audience' is a collective noun treated as singular in past tense."
+    },
+    {
+        "question": "What is the correct form: 'Some of the furniture _____ old.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Furniture' is a singular mass noun, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct option: 'Everyone _____ excited about the trip.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Everyone' is a singular pronoun, so we use 'is'."
+    },
+    {
+        "question": "Which sentence uses the correct subject-verb agreement?",
+        "options": ["The family are watching TV.", "The family is watching TV.", "The families is watching TV.", "The families are watching TV."],
+        "answer": "The family is watching TV.",
+        "explanation": "'Family' is a collective noun treated as singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb for: 'The team _____ their best during the game.'?",
+        "options": ["do", "does", "did", "doing"],
+        "answer": "did",
+        "explanation": "The past tense 'did' is correct because it refers to a past action."
+    },
+    {
+        "question": "Choose the correct verb: 'Either the manager or the employees _____ responsible for the task.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "With 'either/or', the verb agrees with the nearest subject, 'employees' (plural)."
+    },
+    {
+        "question": "What is the correct form: 'Many of the cookies _____ gone.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'Many' indicates a plural subject, so we use 'are'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The couple is happy.", "The couple are happy.", "The couples is happy.", "The couples are happy."],
+        "answer": "The couple is happy.",
+        "explanation": "'Couple' is singular, so we use 'is'."
+    },
+    {
+        "question": "Select the correct verb: 'The police _____ investigating the case.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'Police' is a plural noun, so we use 'are'."
+    },
+    {
+        "question": "What is the correct form: 'A lot of people _____ attending the concert.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'A lot of' refers to a plural subject, so we use 'are'."
+    },
+    {
+        "question": "Choose the correct option: 'Neither of the books _____ interesting.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Neither' is treated as singular, so we use 'is'."
+    },
+    {
+        "question": "Which of these sentences is incorrect?",
+        "options": ["Each student has a book.", "Every teacher is kind.", "All of the teachers are kind.", "None of the students was here."],
+        "answer": "None of the students was here.",
+        "explanation": "'None' can be plural, so it should be 'were' if referring to multiple students."
+    },
+    {
+        "question": "What is the correct form for: 'The bunch of flowers _____ on the table.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Bunch' is singular, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct verb: 'Both of the answers _____ correct.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'Both' indicates a plural subject, so we use 'are'."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The jury were deliberating.", "The jury is deliberating.", "The juries is deliberating.", "The juries are deliberating."],
+        "answer": "The jury is deliberating.",
+        "explanation": "'Jury' is a collective noun treated as singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct verb for: 'The collection of stamps _____ valuable.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Collection' is singular, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct form: 'Neither of the options _____ suitable.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Neither' is treated as singular, so we use 'is'."
+    },
+    {
+        "question": "Which of the following sentences is incorrect?",
+        "options": ["The team are winning the game.", "The team is winning the game.", "The players are playing well.", "The team has a good strategy."],
+        "answer": "The team are winning the game.",
+        "explanation": "'Team' is singular, so it should be 'is'."
+    },
+    {
+        "question": "What is the correct form for: 'A number of students _____ participating in the event.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "'A number of' indicates a plural subject, so we use 'are'."
+    },
+    {
+        "question": "Select the correct verb: 'The flock of birds _____ flying south for the winter.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Flock' is singular, so we use 'is'."
+    },
+    {
+        "question": "What is the correct form: 'All of the furniture _____ in the living room.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Furniture' is a singular mass noun, so we use 'is'."
+    },
+    {
+        "question": "Choose the correct option: 'Either the dog or the cats _____ responsible for the mess.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "are",
+        "explanation": "With 'either/or', the verb agrees with the nearest subject, 'cats' (plural)."
+    },
+    {
+        "question": "Which sentence is correct?",
+        "options": ["The team have a meeting today.", "The team has a meeting today.", "The teams has a meeting today.", "The teams are having a meeting today."],
+        "answer": "The team has a meeting today.",
+        "explanation": "'Team' is singular, so we use 'has'."
+    },
+    {
+        "question": "What is the correct verb form for: 'Each of the players _____ a unique skill.'?",
+        "options": ["has", "have", "were", "are"],
+        "answer": "has",
+        "explanation": "'Each' is singular, so we use 'has'."
+    },
+    {
+        "question": "Select the correct form: 'None of the advice _____ helpful.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'None' can be treated as singular, so we use 'is' here."
+    },
+    {
+        "question": "What is the correct form: 'Every student _____ required to submit their homework.'?",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is",
+        "explanation": "'Every' is singular, so we use 'is'."
+    },
+    {
+        "question": "The dog barks loudly. What is the subject?",
+        "options": ["dog", "barks", "loudly", "The"],
+        "answer": "dog",
+        "explanation": "The subject of the sentence is the noun performing the action, which is 'dog'."
+    },
+    {
+        "question": "The team of players is winning the match. Is 'team' singular or plural?",
+        "options": ["Singular", "Plural", "Both", "None"],
+        "answer": "Singular",
+        "explanation": "'Team' is a collective noun and is treated as singular."
+    },
+    {
+        "question": "The list of items is on the table. What is the verb?",
+        "options": ["list", "items", "is", "table"],
+        "answer": "is",
+        "explanation": "'Is' is the verb that shows the state of being."
+    },
+    {
+        "question": "Neither the teacher nor the students were late. Which verb form is correct?",
+        "options": ["was", "were", "are", "is"],
+        "answer": "were",
+        "explanation": "When 'neither/nor' is used, the verb agrees with the nearest subject, which is plural ('students')."
+    },
+    {
+        "question": "Each of the students has completed their assignment. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "When 'each' is the subject, a singular verb ('has') is used."
+    },
+    {
+        "question": "The couple enjoy their vacation. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "The subject 'couple' is treated as singular, so it should be 'enjoys'."
+    },
+    {
+        "question": "Either my brother or my sister is coming to the party. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "With 'either/or', the verb agrees with the nearest subject, which is singular ('sister')."
+    },
+    {
+        "question": "Many a student has forgotten their homework. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Many a' takes a singular verb, so 'has' is correct."
+    },
+    {
+        "question": "The books on the shelf is dusty. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "The subject 'books' is plural, so it should be 'are dusty'."
+    },
+    {
+        "question": "The data is conclusive. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "Although 'data' is technically plural, it is commonly treated as a singular noun in modern usage."
+    },
+    {
+        "question": "A pack of wolves are hunting. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Pack' is the subject and is singular, so it should be 'is hunting'."
+    },
+    {
+        "question": "Everyone in the class is prepared for the test. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "The subject 'everyone' is treated as singular, so the verb 'is' is correct."
+    },
+    {
+        "question": "The news are surprising. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "The word 'news' is treated as a singular noun, so it should be 'is surprising'."
+    },
+    {
+        "question": "Some of the cake has been eaten. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "The subject 'some' is singular in this context, so 'has' is correct."
+    },
+    {
+        "question": "A number of students were absent. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'A number of' is treated as plural, so 'were' is correct."
+    },
+    {
+        "question": "Neither of the answers is correct. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "With 'neither of', a singular verb ('is') is used."
+    },
+    {
+        "question": "The flock of birds are flying south. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Flock' is singular, so it should be 'is flying'."
+    },
+    {
+        "question": "All of the pie was eaten. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'All' can be singular or plural based on context, and here it refers to the whole pie."
+    },
+    {
+        "question": "Ten dollars were stolen from my wallet. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "Money is treated as singular when considered as a total amount, so it should be 'was stolen'."
+    },
+    {
+        "question": "The jury have reached a decision. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "The word 'jury' is typically treated as a singular collective noun, so it should be 'has reached'."
+    },
+    {
+        "question": "There is a group of people waiting outside. What is the subject?",
+        "options": ["group", "people", "waiting", "outside"],
+        "answer": "group",
+        "explanation": "The subject of the sentence is 'group', which is singular."
+    },
+    {
+        "question": "Each of the players have a unique skill. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Each' takes a singular verb, so it should be 'has'."
+    },
+    {
+        "question": "The number of participants has increased. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'The number of' is treated as singular, so 'has' is correct."
+    },
+    {
+        "question": "A series of events have occurred. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A series' is treated as singular, so it should be 'has occurred'."
+    },
+    {
+        "question": "The committee are debating the issue. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Committee' is a collective noun and is treated as singular, so it should be 'is debating'."
+    },
+    {
+        "question": "The pair of shoes is expensive. What is the subject?",
+        "options": ["pair", "shoes", "is", "expensive"],
+        "answer": "pair",
+        "explanation": "'Pair' is the subject and is singular."
+    },
+    {
+        "question": "Either the cat or the dogs are causing trouble. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "The verb should agree with the nearest subject, which is 'dogs' (plural), so 'are' is correct."
+    },
+    {
+        "question": "Each student and teacher is responsible for their own work. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Each' makes the subject singular, so 'is' is correct."
+    },
+    {
+        "question": "Neither the cat nor the bird were found. Is 'were' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "The nearest subject 'bird' is singular, so it should be 'was found'."
+    },
+    {
+        "question": "The furniture in the room are old. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Furniture' is treated as singular, so it should be 'is old'."
+    },
+    {
+        "question": "Each of the books is interesting. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Each' takes a singular verb, so 'is' is correct."
+    },
+    {
+        "question": "None of the cake was left. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'None' can take singular or plural, but here it refers to the cake as a whole."
+    },
+    {
+        "question": "A couple of friends are visiting. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'A couple of' is treated as plural, so 'are' is correct."
+    },
+    {
+        "question": "The class of students is taking a trip. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Class' is singular, so 'is' is correct."
+    },
+    {
+        "question": "Several of the cake have been eaten. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Cake' is singular, so it should be 'has been eaten'."
+    },
+    {
+        "question": "The herd of elephants was migrating. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Herd' is singular, so 'was' is correct."
+    },
+    {
+        "question": "All the flowers were blooming beautifully. Is 'were' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'All' refers to 'flowers', which is plural, so 'were' is correct."
+    },
+    {
+        "question": "The team are playing well this season. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Team' is singular, so it should be 'is playing well'."
+    },
+    {
+        "question": "Every child in the park was laughing. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Every' is singular, so 'was' is correct."
+    },
+    {
+        "question": "The collection of stamps are fascinating. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Collection' is singular, so it should be 'is fascinating'."
+    },
+    {
+        "question": "A flock of birds was seen flying. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Flock' is singular, so 'was' is correct."
+    },
+    {
+        "question": "The pair of jeans are on sale. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Pair' is singular, so it should be 'is on sale'."
+    },
+    {
+        "question": "Both of the answers is correct. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Both' is plural, so it should be 'are correct'."
+    },
+    {
+        "question": "The class is studying for their exams. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Class' is singular, so 'is' is correct."
+    },
+    {
+        "question": "A number of books has been donated. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A number of' is treated as plural, so it should be 'have been donated'."
+    },
+    {
+        "question": "Either the cat or the rabbit is hiding. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Either/or' takes the singular verb form 'is'."
+    },
+    {
+        "question": "Neither the students nor the teacher was absent. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Neither/nor' takes a singular verb, so 'was' is correct."
+    },
+    {
+        "question": "The committee have made their decision. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Committee' is treated as singular, so it should be 'has made'."
+    },
+    {
+        "question": "Most of the milk was spilled. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Most' can be singular or plural, but here it refers to the milk as a whole."
+    },
+    {
+        "question": "The pack of wolves are howling. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Pack' is singular, so it should be 'is howling'."
+    },
+    {
+        "question": "Either the coffee or the pastries are on the table. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Coffee' is singular, so it should be 'is on the table'."
+    },
+    {
+        "question": "Each of the players have their own strategy. Is 'have' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Each' takes a singular verb, so it should be 'has'."
+    },
+    {
+        "question": "All of the information is accurate. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'All' refers to 'information', which is treated as singular."
+    },
+    {
+        "question": "The class were excited for the trip. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Class' is singular, so it should be 'was excited'."
+    },
+    {
+        "question": "The number of students in the class are increasing. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'The number of' takes a singular verb, so it should be 'is increasing'."
+    },
+    {
+        "question": "A group of friends were at the concert. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Group' is singular, so it should be 'was at the concert'."
+    },
+    {
+        "question": "None of the students have forgotten their homework. Is 'have' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'None' can take plural verbs when it refers to a group, so 'have' is correct."
+    },
+    {
+        "question": "The family is going on vacation next week. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Family' is treated as a singular collective noun."
+    },
+    {
+        "question": "Each of the team members are participating in the event. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Each' takes a singular verb, so it should be 'is participating'."
+    },
+    {
+        "question": "A pair of shoes was found in the hallway. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Pair' is singular, so 'was' is correct."
+    },
+    {
+        "question": "Either the apples or the orange is on the table. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Either/or' takes the singular verb 'is'."
+    },
+    {
+        "question": "Neither of the two options are acceptable. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Neither' takes a singular verb, so it should be 'is acceptable'."
+    },
+    {
+        "question": "A series of lectures have been scheduled. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A series' is treated as singular, so it should be 'has been scheduled'."
+    },
+    {
+        "question": "All the students in the class is participating in the project. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'All' refers to 'students', which is plural, so it should be 'are participating'."
+    },
+    {
+        "question": "The choir sings beautifully. Is 'sings' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Choir' is a collective noun and is treated as singular."
+    },
+    {
+        "question": "None of the answers was correct. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'None' can be singular in this context, so 'was' is correct."
+    },
+    {
+        "question": "The committee are meeting next week. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Committee' is treated as singular, so it should be 'is meeting'."
+    },
+    {
+        "question": "The pack of dogs is barking loudly. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Pack' is singular, so 'is' is correct."
+    },
+    {
+        "question": "Each of the players were given a medal. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Each' takes a singular verb, so it should be 'was given'."
+    },
+    {
+        "question": "The team have won the championship. Is 'have' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Team' is singular, so it should be 'has won'."
+    },
+    {
+        "question": "A couple of students was absent today. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A couple of' is treated as plural, so it should be 'were absent'."
+    },
+    {
+        "question": "The flock of sheep is grazing in the field. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Flock' is singular, so 'is' is correct."
+    },
+    {
+        "question": "The army are marching in formation. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Army' is treated as singular, so it should be 'is marching'."
+    },
+    {
+        "question": "Most of the furniture has arrived. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Most' refers to the collective noun 'furniture', which is singular."
+    },
+    {
+        "question": "A series of tests are scheduled for next week. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A series' is treated as singular, so it should be 'is scheduled'."
+    },
+    {
+        "question": "The committee is making a decision. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Committee' is singular, so 'is' is correct."
+    },
+    {
+        "question": "Either my friend or my parents are coming. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Friend' is singular, so it should be 'is coming'."
+    },
+    {
+        "question": "Each of the team members is responsible. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Each' makes the subject singular, so 'is' is correct."
+    },
+    {
+        "question": "The group of students were excited. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Group' is singular, so it should be 'was excited'."
+    },
+    {
+        "question": "Neither of the books are interesting. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Neither' takes a singular verb, so it should be 'is interesting'."
+    },
+    {
+        "question": "The collection of coins are valuable. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Collection' is singular, so it should be 'is valuable'."
+    },
+    {
+        "question": "Most of the students are prepared. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Most' can be plural in this context, so 'are' is correct."
+    },
+    {
+        "question": "Every person has their own opinion. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Every' is singular, so 'has' is correct."
+    },
+    {
+        "question": "The team are going to the finals. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Team' is singular, so it should be 'is going'."
+    },
+    {
+        "question": "A pair of glasses were found on the table. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Pair' is singular, so it should be 'was found'."
+    },
+    {
+        "question": "The audience is clapping for the performance. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Audience' is singular, so 'is' is correct."
+    },
+    {
+        "question": "Several of the committee members are present. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Several of' takes a plural verb, so 'are' is correct."
+    },
+    {
+        "question": "Each of the documents are ready for submission. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Each' takes a singular verb, so it should be 'is ready'."
+    },
+    {
+        "question": "None of the water was spilled. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'None' can be singular in this context, so 'was' is correct."
+    },
+    {
+        "question": "The committee is reviewing the proposals. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Committee' is singular, so 'is' is correct."
+    },
+    {
+        "question": "Either the cats or the dog is responsible. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Either/or' takes the verb that agrees with the nearest subject, which is singular here."
+    },
+    {
+        "question": "Each of the players have their own responsibilities. Is 'have' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Each' takes a singular verb, so it should be 'has'."
+    },
+    {
+        "question": "A number of students is absent today. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A number of' is treated as plural, so it should be 'are absent'."
+    },
+    {
+        "question": "The pack of wolves were howling at the moon. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Pack' is singular, so it should be 'was howling'."
+    },
+    {
+        "question": "Every student is required to submit their homework. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Every' is singular, so 'is' is correct."
+    },
+    {
+        "question": "The majority of the cake have been eaten. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Majority' is singular when referring to a whole, so it should be 'has been eaten'."
+    },
+    {
+        "question": "The group of singers is performing tonight. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Group' is singular, so 'is' is correct."
+    },
+    {
+        "question": "A couple of friends is planning a trip. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'A couple of' is treated as plural, so it should be 'are planning'."
+    },
+    {
+        "question": "The team is working together on the project. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Team' is singular, so 'is' is correct."
+    },
+    {
+        "question": "Neither of the options is valid. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Neither' takes a singular verb, so 'is' is correct."
+    },
+    {
+        "question": "The collection of paintings are on display. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Collection' is singular, so it should be 'is on display'."
+    },
+    {
+        "question": "The committee is divided on the issue. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Committee' is singular, so 'is' is correct."
+    },
+    {
+        "question": "None of the players was injured during the game. Is 'was' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'None' can be singular in this context, so 'was' is correct."
+    },
+    {
+        "question": "The majority of the students are present today. Is 'are' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Majority' can be plural when referring to a group, so 'are' is correct."
+    },
+    {
+        "question": "Every student in the class have completed their assignments. Is 'have' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Every' takes a singular verb, so it should be 'has completed'."
+    },
+    {
+        "question": "Either the teacher or the students is responsible for the project. Is 'is' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Either/or' takes the verb that agrees with the nearest subject, which is singular here."
+    },
+    {
+        "question": "The group of students are studying for the exam. Is the verb correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "No",
+        "explanation": "'Group' is singular, so it should be 'is studying'."
+    },
+    {
+        "question": "Most of the food has been eaten. Is 'has' correct?",
+        "options": ["Yes", "No", "Depends", "Maybe"],
+        "answer": "Yes",
+        "explanation": "'Most' can be singular in this context when referring to a whole."
+    },
+    {
+        "question": "How do you change 'He said, 'I am tired'' into reported speech?",
+        "options": ["He said that he is tired.", "He said that he was tired.", "He said that he has been tired.", "He said he tired."],
+        "answer": "He said that he was tired.",
+        "explanation": "In reported speech, the present tense 'am' changes to the past tense 'was'."
+    },
+    {
+        "question": "Convert 'She said, 'I will go to the party'' into reported speech.",
+        "options": ["She said that she will go to the party.", "She said that she would go to the party.", "She said she goes to the party.", "She said she went to the party."],
+        "answer": "She said that she would go to the party.",
+        "explanation": "In reported speech, 'will' changes to 'would'."
+    },
+    {
+        "question": "How would you report 'He asked, 'Are you coming to the game?''?",
+        "options": ["He asked if I am coming to the game.", "He asked if I was coming to the game.", "He asked if I will come to the game.", "He asked if I come to the game."],
+        "answer": "He asked if I was coming to the game.",
+        "explanation": "In reported speech, the present continuous 'are coming' changes to past continuous 'was coming'."
+    },
+    {
+        "question": "What is the reported speech of 'They said, 'We are happy''?",
+        "options": ["They said that they are happy.", "They said that they were happy.", "They said that they have been happy.", "They said they happy."],
+        "answer": "They said that they were happy.",
+        "explanation": "The present tense 'are' changes to the past tense 'were'."
+    },
+    {
+        "question": "How do you convert 'The teacher said, 'You need to study more''?",
+        "options": ["The teacher said that we needed to study more.", "The teacher said that you need to study more.", "The teacher said that I needed to study more.", "The teacher said that we need to study more."],
+        "answer": "The teacher said that you need to study more.",
+        "explanation": "If the directive is still relevant, 'need' can remain unchanged."
+    },
+    {
+        "question": "How would you report 'She said, 'I can swim well''?",
+        "options": ["She said that she could swim well.", "She said that she can swim well.", "She said that she could swim good.", "She said that she can swims well."],
+        "answer": "She said that she could swim well.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the reported speech of 'He exclaimed, 'What a beautiful day!''?",
+        "options": ["He exclaimed that it was a beautiful day.", "He exclaimed that it is a beautiful day.", "He exclaimed what a beautiful day.", "He exclaimed that day was beautiful."],
+        "answer": "He exclaimed that it was a beautiful day.",
+        "explanation": "Exclamations are reported with 'that' and the verb changes to the past tense."
+    },
+    {
+        "question": "Convert 'She said, 'I have finished my homework'' into reported speech.",
+        "options": ["She said that she finished her homework.", "She said that she had finished her homework.", "She said she has finished her homework.", "She said that she finish her homework."],
+        "answer": "She said that she had finished her homework.",
+        "explanation": "The present perfect 'have finished' changes to past perfect 'had finished' in reported speech."
+    },
+    {
+        "question": "How do you report 'He asked, 'Do you like chocolate?''?",
+        "options": ["He asked if I like chocolate.", "He asked if I liked chocolate.", "He asked if I love chocolate.", "He asked do I like chocolate."],
+        "answer": "He asked if I liked chocolate.",
+        "explanation": "In reported speech, the present tense 'do like' changes to past tense 'did like'."
+    },
+    {
+        "question": "What is the correct reported speech for 'They said, 'We will finish the project soon''?",
+        "options": ["They said that they will finish the project soon.", "They said that they would finish the project soon.", "They said they finish the project soon.", "They said that they were finishing the project soon."],
+        "answer": "They said that they would finish the project soon.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am going to the market'' into reported speech.",
+        "options": ["She said that she is going to the market.", "She said that she was going to the market.", "She said she goes to the market.", "She said she went to the market."],
+        "answer": "She said that she was going to the market.",
+        "explanation": "'Am going' changes to 'was going' in reported speech."
+    },
+    {
+        "question": "How do you report 'He said, 'I will help you''?",
+        "options": ["He said that he helps me.", "He said that he will help me.", "He said that he would help me.", "He said he help me."],
+        "answer": "He said that he would help me.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She asked, 'Where are you going?''?",
+        "options": ["She asked where I am going.", "She asked where I was going.", "She asked where you are going.", "She asked where you were going."],
+        "answer": "She asked where I was going.",
+        "explanation": "In reported speech, the present tense 'are going' changes to past tense 'was going'."
+    },
+    {
+        "question": "Convert 'The teacher said, 'You have done well'' into reported speech.",
+        "options": ["The teacher said that you had done well.", "The teacher said that you have done well.", "The teacher said you done well.", "The teacher said you did well."],
+        "answer": "The teacher said that you had done well.",
+        "explanation": "The present perfect 'have done' changes to past perfect 'had done'."
+    },
+    {
+        "question": "How do you report 'He exclaimed, 'How amazing that was!''?",
+        "options": ["He exclaimed how amazing that was.", "He exclaimed that it was amazing.", "He exclaimed that it is amazing.", "He exclaimed that was amazing."],
+        "answer": "He exclaimed that it was amazing.",
+        "explanation": "In reported speech, the exclamation changes to 'that it was'."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I cannot attend the meeting''?",
+        "options": ["She said that she could not attend the meeting.", "She said that she cannot attend the meeting.", "She said she couldn't attend the meeting.", "She said she can’t attend the meeting."],
+        "answer": "She said that she could not attend the meeting.",
+        "explanation": "'Cannot' changes to 'could not' in reported speech."
+    },
+    {
+        "question": "Convert 'They said, 'We are going to a concert'' into reported speech.",
+        "options": ["They said that they were going to a concert.", "They said that they are going to a concert.", "They said they go to a concert.", "They said they were go to a concert."],
+        "answer": "They said that they were going to a concert.",
+        "explanation": "'Are going' changes to 'were going' in reported speech."
+    },
+    {
+        "question": "How do you report 'She asked, 'Can you help me?''?",
+        "options": ["She asked if I can help her.", "She asked if I could help her.", "She asked if you can help her.", "She asked if I could help me."],
+        "answer": "She asked if I could help her.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the correct form for 'He said, 'I will call you tomorrow''?",
+        "options": ["He said that he would call me tomorrow.", "He said that he will call me tomorrow.", "He said that he called me tomorrow.", "He said he will call you tomorrow."],
+        "answer": "He said that he would call me tomorrow.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'What a wonderful performance!'' into reported speech.",
+        "options": ["She exclaimed that it was a wonderful performance.", "She exclaimed what a wonderful performance.", "She exclaimed that it is a wonderful performance.", "She exclaimed that it was wonderful performance."],
+        "answer": "She exclaimed that it was a wonderful performance.",
+        "explanation": "In reported speech, exclamations are turned into statements."
+    },
+    {
+        "question": "How do you report 'They said, 'We are tired of waiting''?",
+        "options": ["They said that they were tired of waiting.", "They said they are tired of waiting.", "They said that they tired of waiting.", "They said they were tired of wait."],
+        "answer": "They said that they were tired of waiting.",
+        "explanation": "'Are tired' changes to 'were tired' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He asked, 'Have you finished your homework?''?",
+        "options": ["He asked if I have finished my homework.", "He asked if I had finished my homework.", "He asked if you had finished your homework.", "He asked if I finished my homework."],
+        "answer": "He asked if I had finished my homework.",
+        "explanation": "In reported speech, the present perfect 'have finished' changes to past perfect 'had finished'."
+    },
+    {
+        "question": "Convert 'She said, 'I am watching a movie'' into reported speech.",
+        "options": ["She said that she was watching a movie.", "She said that she is watching a movie.", "She said she watches a movie.", "She said she watched a movie."],
+        "answer": "She said that she was watching a movie.",
+        "explanation": "'Am watching' changes to 'was watching' in reported speech."
+    },
+    {
+        "question": "How do you report 'He said, 'I like pizza''?",
+        "options": ["He said that he liked pizza.", "He said that he likes pizza.", "He said that he liked the pizza.", "He said he like pizza."],
+        "answer": "He said that he liked pizza.",
+        "explanation": "'Like' changes to 'liked' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'You must study hard''?",
+        "options": ["She said that you must study hard.", "She said that you had to study hard.", "She said you must study hard.", "She said you must study hard."],
+        "answer": "She said that you had to study hard.",
+        "explanation": "'Must' can change to 'had to' in reported speech."
+    },
+    {
+        "question": "Convert 'They said, 'We will join you later'' into reported speech.",
+        "options": ["They said that they would join you later.", "They said that they will join you later.", "They said they join you later.", "They said they are joining you later."],
+        "answer": "They said that they would join you later.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "How do you report 'She asked, 'Are you okay?''?",
+        "options": ["She asked if I was okay.", "She asked if I am okay.", "She asked if you are okay.", "She asked if I was ok."],
+        "answer": "She asked if I was okay.",
+        "explanation": "In reported speech, 'are' changes to 'was'."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I cannot believe it''?",
+        "options": ["He said that he could not believe it.", "He said he cannot believe it.", "He said that he could believe it.", "He said that he can’t believe it."],
+        "answer": "He said that he could not believe it.",
+        "explanation": "'Cannot' changes to 'could not' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I will be there soon'' into reported speech.",
+        "options": ["She said that she will be there soon.", "She said that she would be there soon.", "She said she be there soon.", "She said that she was there soon."],
+        "answer": "She said that she would be there soon.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Why are you late?''?",
+        "options": ["They asked why I was late.", "They asked why I am late.", "They asked why you are late.", "They asked why I was late."],
+        "answer": "They asked why I was late.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I have a dog''?",
+        "options": ["He said that he has a dog.", "He said that he had a dog.", "He said that he have a dog.", "He said he has a dog."],
+        "answer": "He said that he had a dog.",
+        "explanation": "'Have' changes to 'had' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'How beautiful the flowers are!'' into reported speech.",
+        "options": ["She exclaimed that the flowers were beautiful.", "She exclaimed that the flowers are beautiful.", "She exclaimed how beautiful the flowers are.", "She exclaimed that flowers were beautiful."],
+        "answer": "She exclaimed that the flowers were beautiful.",
+        "explanation": "Exclamations change to statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We are excited about the trip''?",
+        "options": ["They said that they were excited about the trip.", "They said that they are excited about the trip.", "They said they were exciting about the trip.", "They said they excited about the trip."],
+        "answer": "They said that they were excited about the trip.",
+        "explanation": "'Are excited' changes to 'were excited' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He asked, 'When will you arrive?''?",
+        "options": ["He asked when I would arrive.", "He asked when I will arrive.", "He asked when you arrive.", "He asked when I arrive."],
+        "answer": "He asked when I would arrive.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am reading a book'' into reported speech.",
+        "options": ["She said that she is reading a book.", "She said that she was reading a book.", "She said she reads a book.", "She said that she read a book."],
+        "answer": "She said that she was reading a book.",
+        "explanation": "'Am reading' changes to 'was reading' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We have finished our project''?",
+        "options": ["They said that they had finished their project.", "They said that they have finished their project.", "They said they finished their project.", "They said they have finish their project."],
+        "answer": "They said that they had finished their project.",
+        "explanation": "'Have finished' changes to 'had finished' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I may come to the party''?",
+        "options": ["He said that he might come to the party.", "He said that he may come to the party.", "He said he may come to the party.", "He said that he might came to the party."],
+        "answer": "He said that he might come to the party.",
+        "explanation": "'May' changes to 'might' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'What a lovely dress!'' into reported speech.",
+        "options": ["She exclaimed that it was a lovely dress.", "She exclaimed that what a lovely dress.", "She exclaimed that it is a lovely dress.", "She exclaimed it was a lovely dress."],
+        "answer": "She exclaimed that it was a lovely dress.",
+        "explanation": "Exclamations are reported with 'that' and the verb changes to past tense."
+    },
+    {
+        "question": "How do you report 'They said, 'We are planning a trip''?",
+        "options": ["They said that they were planning a trip.", "They said that they are planning a trip.", "They said they planned a trip.", "They said that they are planning trip."],
+        "answer": "They said that they were planning a trip.",
+        "explanation": "'Are planning' changes to 'were planning' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He asked, 'Do you need help?''?",
+        "options": ["He asked if I needed help.", "He asked if I need help.", "He asked if you needed help.", "He asked do I need help."],
+        "answer": "He asked if I needed help.",
+        "explanation": "In reported speech, 'do need' changes to 'did need'."
+    },
+    {
+        "question": "Convert 'She said, 'I might go to the concert'' into reported speech.",
+        "options": ["She said that she might go to the concert.", "She said that she may go to the concert.", "She said she might went to the concert.", "She said she may went to the concert."],
+        "answer": "She said that she might go to the concert.",
+        "explanation": "'Might' can remain unchanged in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Where are you from?''?",
+        "options": ["They asked where I was from.", "They asked where I am from.", "They asked where you are from.", "They asked where I came from."],
+        "answer": "They asked where I was from.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I will finish the report''?",
+        "options": ["He said that he will finish the report.", "He said that he would finish the report.", "He said that he finished the report.", "He said he finish the report."],
+        "answer": "He said that he would finish the report.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I have been waiting'' into reported speech.",
+        "options": ["She said that she had been waiting.", "She said that she has been waiting.", "She said she was waiting.", "She said that she waiting."],
+        "answer": "She said that she had been waiting.",
+        "explanation": "'Have been waiting' changes to 'had been waiting' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We are learning new things''?",
+        "options": ["They said that they were learning new things.", "They said that they are learning new things.", "They said they learn new things.", "They said they learned new things."],
+        "answer": "They said that they were learning new things.",
+        "explanation": "'Are learning' changes to 'were learning' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He asked, 'Can I borrow your pen?''?",
+        "options": ["He asked if he could borrow my pen.", "He asked if I could borrow his pen.", "He asked if I can borrow his pen.", "He asked if he can borrow my pen."],
+        "answer": "He asked if he could borrow my pen.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'How funny that joke was!'' into reported speech.",
+        "options": ["She exclaimed that the joke was funny.", "She exclaimed how funny that joke was.", "She exclaimed that it was funny.", "She exclaimed that joke was funny."],
+        "answer": "She exclaimed that the joke was funny.",
+        "explanation": "Exclamations are turned into statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We will help you''?",
+        "options": ["They said that they will help you.", "They said that they would help you.", "They said they help you.", "They said they are helping you."],
+        "answer": "They said that they would help you.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I can finish this job''?",
+        "options": ["He said that he could finish this job.", "He said that he can finish this job.", "He said that he finished this job.", "He said he can finish this job."],
+        "answer": "He said that he could finish this job.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am feeling sick'' into reported speech.",
+        "options": ["She said that she was feeling sick.", "She said that she is feeling sick.", "She said she felt sick.", "She said that she feels sick."],
+        "answer": "She said that she was feeling sick.",
+        "explanation": "'Am feeling' changes to 'was feeling' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Are you ready?''?",
+        "options": ["They asked if I was ready.", "They asked if you were ready.", "They asked if I am ready.", "They asked if I ready."],
+        "answer": "They asked if I was ready.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I will try my best''?",
+        "options": ["He said that he will try his best.", "He said that he would try his best.", "He said he tried his best.", "He said that he was trying his best."],
+        "answer": "He said that he would try his best.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'What a great idea!'' into reported speech.",
+        "options": ["She exclaimed that it was a great idea.", "She exclaimed what a great idea.", "She exclaimed that is a great idea.", "She exclaimed that was a great idea."],
+        "answer": "She exclaimed that it was a great idea.",
+        "explanation": "Exclamations are converted to statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We are busy now''?",
+        "options": ["They said that they were busy now.", "They said that they are busy now.", "They said they were busy.", "They said they are busy."],
+        "answer": "They said that they were busy now.",
+        "explanation": "'Are busy' changes to 'were busy' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He asked, 'Will you help me?''?",
+        "options": ["He asked if I would help him.", "He asked if I can help him.", "He asked if I help him.", "He asked if I will help him."],
+        "answer": "He asked if I would help him.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am learning Spanish'' into reported speech.",
+        "options": ["She said that she was learning Spanish.", "She said that she is learning Spanish.", "She said she learns Spanish.", "She said that she learned Spanish."],
+        "answer": "She said that she was learning Spanish.",
+        "explanation": "'Am learning' changes to 'was learning' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We can do it''?",
+        "options": ["They said that they could do it.", "They said that they can do it.", "They said they do it.", "They said they can do it."],
+        "answer": "They said that they could do it.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He asked, 'Have you eaten yet?''?",
+        "options": ["He asked if I had eaten yet.", "He asked if I have eaten yet.", "He asked if you had eaten yet.", "He asked if I eat yet."],
+        "answer": "He asked if I had eaten yet.",
+        "explanation": "In reported speech, 'have eaten' changes to 'had eaten'."
+    },
+    {
+        "question": "Convert 'She said, 'I will always remember this day'' into reported speech.",
+        "options": ["She said that she will always remember this day.", "She said that she would always remember this day.", "She said she remembers this day.", "She said she remembered this day."],
+        "answer": "She said that she would always remember this day.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Where is your friend?''?",
+        "options": ["They asked where my friend was.", "They asked where my friend is.", "They asked where your friend is.", "They asked where my friend be."],
+        "answer": "They asked where my friend was.",
+        "explanation": "'Is' changes to 'was' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I might join you later''?",
+        "options": ["He said that he might join me later.", "He said that he may join me later.", "He said he might joined you later.", "He said that he might join you later."],
+        "answer": "He said that he might join you later.",
+        "explanation": "'Might' can remain unchanged in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'What a beautiful sunset!'' into reported speech.",
+        "options": ["She exclaimed that it was a beautiful sunset.", "She exclaimed what a beautiful sunset.", "She exclaimed that it is a beautiful sunset.", "She exclaimed that sunset was beautiful."],
+        "answer": "She exclaimed that it was a beautiful sunset.",
+        "explanation": "Exclamations change to statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We could go tomorrow''?",
+        "options": ["They said that they could go tomorrow.", "They said that they can go tomorrow.", "They said they could went tomorrow.", "They said they can go tomorrow."],
+        "answer": "They said that they could go tomorrow.",
+        "explanation": "'Could' remains unchanged in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He asked, 'What are you doing?''?",
+        "options": ["He asked what I was doing.", "He asked what you were doing.", "He asked what I do.", "He asked what you are doing."],
+        "answer": "He asked what I was doing.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am tired'' into reported speech.",
+        "options": ["She said that she was tired.", "She said that she is tired.", "She said she was tired.", "She said that she tired."],
+        "answer": "She said that she was tired.",
+        "explanation": "'Am tired' changes to 'was tired' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Will you be attending the meeting?''?",
+        "options": ["They asked if I would be attending the meeting.", "They asked if I will be attending the meeting.", "They asked if you will be attending the meeting.", "They asked if I was attending the meeting."],
+        "answer": "They asked if I would be attending the meeting.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I will help you tomorrow''?",
+        "options": ["He said that he will help you tomorrow.", "He said that he would help you tomorrow.", "He said he helps you tomorrow.", "He said that he helped you tomorrow."],
+        "answer": "He said that he would help you tomorrow.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I have never been to Paris'' into reported speech.",
+        "options": ["She said that she had never been to Paris.", "She said that she has never been to Paris.", "She said she never been to Paris.", "She said that she never went to Paris."],
+        "answer": "She said that she had never been to Paris.",
+        "explanation": "'Have never been' changes to 'had never been' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We will be back soon''?",
+        "options": ["They said that they would be back soon.", "They said that they will be back soon.", "They said they be back soon.", "They said they are back soon."],
+        "answer": "They said that they would be back soon.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I will visit you next week'' into reported speech.",
+        "options": [
+            "She said that she would visit me the following week.",
+            "She said that she will visit me next week.",
+            "She said she visits me next week.",
+            "She said that she would visit you next week."
+        ],
+        "answer": "She said that she would visit me the following week.",
+        "explanation": "'Will' changes to 'would' and 'next week' becomes 'the following week'."
+    },
+    {
+        "question": "How do you report 'He said, 'I am watching a movie''?",
+        "options": [
+            "He said that he was watching a movie.",
+            "He said that he is watching a movie.",
+            "He said he watched a movie.",
+            "He said he was watch a movie."
+        ],
+        "answer": "He said that he was watching a movie.",
+        "explanation": "'Am watching' changes to 'was watching' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'They said, 'We have completed the project''?",
+        "options": [
+            "They said that they had completed the project.",
+            "They said that they have completed the project.",
+            "They said they completed the project.",
+            "They said that they complete the project."
+        ],
+        "answer": "They said that they had completed the project.",
+        "explanation": "'Have completed' changes to 'had completed' in reported speech."
+    },
+    {
+        "question": "Convert 'He asked, 'Are you coming to the party?'' into reported speech.",
+        "options": [
+            "He asked if I was coming to the party.",
+            "He asked if you were coming to the party.",
+            "He asked if I am coming to the party.",
+            "He asked if I come to the party."
+        ],
+        "answer": "He asked if I was coming to the party.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She said, 'I might go to the store''?",
+        "options": [
+            "She said that she might go to the store.",
+            "She said that she may go to the store.",
+            "She said that she might went to the store.",
+            "She said she may go to the store."
+        ],
+        "answer": "She said that she might go to the store.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "Convert 'He exclaimed, 'What a wonderful day!'' into reported speech.",
+        "options": [
+            "He exclaimed that it was a wonderful day.",
+            "He exclaimed what a wonderful day.",
+            "He exclaimed that day was wonderful.",
+            "He exclaimed that it is a wonderful day."
+        ],
+        "answer": "He exclaimed that it was a wonderful day.",
+        "explanation": "Exclamations are turned into statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We are leaving now''?",
+        "options": [
+            "They said that they were leaving now.",
+            "They said that they are leaving now.",
+            "They said they left now.",
+            "They said they are leaving."
+        ],
+        "answer": "They said that they were leaving now.",
+        "explanation": "'Are leaving' changes to 'were leaving' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He asked, 'Have you seen my keys?''?",
+        "options": [
+            "He asked if I had seen his keys.",
+            "He asked if I have seen his keys.",
+            "He asked if you have seen his keys.",
+            "He asked if I seen his keys."
+        ],
+        "answer": "He asked if I had seen his keys.",
+        "explanation": "'Have seen' changes to 'had seen' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am going to the market'' into reported speech.",
+        "options": [
+            "She said that she was going to the market.",
+            "She said that she is going to the market.",
+            "She said she went to the market.",
+            "She said that she go to the market."
+        ],
+        "answer": "She said that she was going to the market.",
+        "explanation": "'Am going' changes to 'was going' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We can finish this by tomorrow''?",
+        "options": [
+            "They said that they could finish this by tomorrow.",
+            "They said that they can finish this by tomorrow.",
+            "They said they finished this by tomorrow.",
+            "They said they can finish by tomorrow."
+        ],
+        "answer": "They said that they could finish this by tomorrow.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I will call you later''?",
+        "options": [
+            "He said that he will call me later.",
+            "He said that he would call me later.",
+            "He said he calls me later.",
+            "He said that he called me later."
+        ],
+        "answer": "He said that he would call me later.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She asked, 'Can you help me with this?'' into reported speech.",
+        "options": [
+            "She asked if I could help her with this.",
+            "She asked if I can help her with this.",
+            "She asked if you can help her with this.",
+            "She asked if I could help me with this."
+        ],
+        "answer": "She asked if I could help her with this.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We will see you soon''?",
+        "options": [
+            "They said that they would see me soon.",
+            "They said that they will see me soon.",
+            "They said they see you soon.",
+            "They said they were seeing you soon."
+        ],
+        "answer": "They said that they would see me soon.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I could do it''?",
+        "options": [
+            "He said that he could do it.",
+            "He said that he can do it.",
+            "He said he could done it.",
+            "He said that he could did it."
+        ],
+        "answer": "He said that he could do it.",
+        "explanation": "'Could' remains unchanged in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am studying for the test'' into reported speech.",
+        "options": [
+            "She said that she was studying for the test.",
+            "She said that she is studying for the test.",
+            "She said she studies for the test.",
+            "She said that she study for the test."
+        ],
+        "answer": "She said that she was studying for the test.",
+        "explanation": "'Am studying' changes to 'was studying' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Will you join us for dinner?''?",
+        "options": [
+            "They asked if I would join them for dinner.",
+            "They asked if you will join them for dinner.",
+            "They asked if I join them for dinner.",
+            "They asked if I will join for dinner."
+        ],
+        "answer": "They asked if I would join them for dinner.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I may go to the party''?",
+        "options": [
+            "He said that he might go to the party.",
+            "He said that he may go to the party.",
+            "He said he might go to the party.",
+            "He said that he may went to the party."
+        ],
+        "answer": "He said that he might go to the party.",
+        "explanation": "'May' changes to 'might' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'How amazing this is!'' into reported speech.",
+        "options": [
+            "She exclaimed that it was amazing.",
+            "She exclaimed how amazing it was.",
+            "She exclaimed that this was amazing.",
+            "She exclaimed that it is amazing."
+        ],
+        "answer": "She exclaimed that it was amazing.",
+        "explanation": "Exclamations change to statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We might go hiking tomorrow''?",
+        "options": [
+            "They said that they might go hiking tomorrow.",
+            "They said that they may go hiking tomorrow.",
+            "They said they might went hiking tomorrow.",
+            "They said that they might goes hiking tomorrow."
+        ],
+        "answer": "They said that they might go hiking tomorrow.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He asked, 'Are you ready to leave?''?",
+        "options": [
+            "He asked if I was ready to leave.",
+            "He asked if you were ready to leave.",
+            "He asked if I am ready to leave.",
+            "He asked if I ready to leave."
+        ],
+        "answer": "He asked if I was ready to leave.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I will try my best to help'' into reported speech.",
+        "options": [
+            "She said that she would try her best to help.",
+            "She said that she will try her best to help.",
+            "She said she tries her best to help.",
+            "She said that she tried her best to help."
+        ],
+        "answer": "She said that she would try her best to help.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We cannot attend the meeting''?",
+        "options": [
+            "They said that they could not attend the meeting.",
+            "They said that they cannot attend the meeting.",
+            "They said they could not attend the meeting.",
+            "They said that they weren't able to attend the meeting."
+        ],
+        "answer": "They said that they could not attend the meeting.",
+        "explanation": "'Cannot' changes to 'could not' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I have finished my homework''?",
+        "options": [
+            "He said that he had finished his homework.",
+            "He said that he has finished his homework.",
+            "He said he finished his homework.",
+            "He said that he finish his homework."
+        ],
+        "answer": "He said that he had finished his homework.",
+        "explanation": "'Have finished' changes to 'had finished' in reported speech."
+    },
+    {
+        "question": "Convert 'She said, 'I am excited about the trip'' into reported speech.",
+        "options": [
+            "She said that she was excited about the trip.",
+            "She said that she is excited about the trip.",
+            "She said she was exciting about the trip.",
+            "She said that she excited about the trip."
+        ],
+        "answer": "She said that she was excited about the trip.",
+        "explanation": "'Am excited' changes to 'was excited' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Will you be joining us?''?",
+        "options": [
+            "They asked if I would be joining them.",
+            "They asked if you will be joining them.",
+            "They asked if I join them.",
+            "They asked if I will be joining them."
+        ],
+        "answer": "They asked if I would be joining them.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'He said, 'I can help you with that''?",
+        "options": [
+            "He said that he could help me with that.",
+            "He said that he can help me with that.",
+            "He said he could help you with that.",
+            "He said that he can helps you with that."
+        ],
+        "answer": "He said that he could help me with that.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "Convert 'She exclaimed, 'What a beautiful dress!'' into reported speech.",
+        "options": [
+            "She exclaimed that it was a beautiful dress.",
+            "She exclaimed what a beautiful dress.",
+            "She exclaimed that dress was beautiful.",
+            "She exclaimed that it is a beautiful dress."
+        ],
+        "answer": "She exclaimed that it was a beautiful dress.",
+        "explanation": "Exclamations change to statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We might see you tomorrow''?",
+        "options": [
+            "They said that they might see me tomorrow.",
+            "They said that they may see you tomorrow.",
+            "They said they might saw you tomorrow.",
+            "They said they might see you."
+        ],
+        "answer": "They said that they might see me tomorrow.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I will be there at five''?",
+        "options": [
+            "He said that he would be there at five.",
+            "He said that he will be there at five.",
+            "He said he was there at five.",
+            "He said that he would be at five."
+        ],
+        "answer": "He said that he would be there at five.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'She asked, 'Are you enjoying the show?'' into reported speech.",
+        "options": [
+            "She asked if I was enjoying the show.",
+            "She asked if you were enjoying the show.",
+            "She asked if I enjoy the show.",
+            "She asked if I am enjoying the show."
+        ],
+        "answer": "She asked if I was enjoying the show.",
+        "explanation": "'Are' changes to 'was' in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We will finish this later''?",
+        "options": [
+            "They said that they would finish it later.",
+            "They said that they will finish it later.",
+            "They said they finished it later.",
+            "They said that they were finishing this later."
+        ],
+        "answer": "They said that they would finish it later.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+   }   ,
+    {
+        "question": "Convert 'He said, 'I am learning French'' into reported speech.",
+        "options": [
+            "He said that he was learning French.",
+            "He said that he is learning French.",
+            "He said he learns French.",
+            "He said that he learned French."
+        ],
+        "answer": "He said that he was learning French.",
+        "explanation": "'Am learning' changes to 'was learning' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She said, 'I will finish this soon''?",
+        "options": [
+            "She said that she would finish this soon.",
+            "She said that she will finish this soon.",
+            "She said she finishes this soon.",
+            "She said that she finished this soon."
+        ],
+        "answer": "She said that she would finish this soon.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'They said, 'We are happy to be here'' into reported speech.",
+        "options": [
+            "They said that they were happy to be there.",
+            "They said that they are happy to be here.",
+            "They said they happy to be there.",
+            "They said that they were happy to be here."
+        ],
+        "answer": "They said that they were happy to be there.",
+        "explanation": "'Are happy' changes to 'were happy' in reported speech."
+    },
+    {
+        "question": "How do you report 'He asked, 'Do you like ice cream?''?",
+        "options": [
+            "He asked if I liked ice cream.",
+            "He asked if I like ice cream.",
+            "He asked if you liked ice cream.",
+            "He asked if I was liking ice cream."
+        ],
+        "answer": "He asked if I liked ice cream.",
+        "explanation": "'Do' changes to 'did' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I cannot find my book''?",
+        "options": [
+            "She said that she could not find her book.",
+            "She said that she cannot find her book.",
+            "She said she couldn't find her book.",
+            "She said that she can’t find her book."
+        ],
+        "answer": "She said that she could not find her book.",
+        "explanation": "'Cannot' changes to 'could not' in reported speech."
+    },
+    {
+        "question": "Convert 'They said, 'We might go to the concert'' into reported speech.",
+        "options": [
+            "They said that they might go to the concert.",
+            "They said that they may go to the concert.",
+            "They said they might went to the concert.",
+            "They said that they might going to the concert."
+        ],
+        "answer": "They said that they might go to the concert.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "How do you report 'He said, 'I have a new car''?",
+        "options": [
+            "He said that he had a new car.",
+            "He said that he has a new car.",
+            "He said he have a new car.",
+            "He said that he has new car."
+        ],
+        "answer": "He said that he had a new car.",
+        "explanation": "'Have' changes to 'had' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She exclaimed, 'I won the lottery!''?",
+        "options": [
+            "She exclaimed that she won the lottery.",
+            "She exclaimed that she had won the lottery.",
+            "She exclaimed she wins the lottery.",
+            "She exclaimed that she win the lottery."
+        ],
+        "answer": "She exclaimed that she had won the lottery.",
+        "explanation": "Exclamations change to statements in reported speech, and past perfect can be used."
+    },
+    {
+        "question": "Convert 'He said, 'I will help you with your project'' into reported speech.",
+        "options": [
+            "He said that he would help me with my project.",
+            "He said that he will help me with my project.",
+            "He said he helps me with my project.",
+            "He said that he helped me with my project."
+        ],
+        "answer": "He said that he would help me with my project.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Did you see the game?''?",
+        "options": [
+            "They asked if I had seen the game.",
+            "They asked if you saw the game.",
+            "They asked if I seen the game.",
+            "They asked if I see the game."
+        ],
+        "answer": "They asked if I had seen the game.",
+        "explanation": "'Did see' changes to 'had seen' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I am going to visit my grandmother''?",
+        "options": [
+            "She said that she was going to visit her grandmother.",
+            "She said that she is going to visit her grandmother.",
+            "She said she goes to visit her grandmother.",
+            "She said that she visited her grandmother."
+        ],
+        "answer": "She said that she was going to visit her grandmother.",
+        "explanation": "'Am going' changes to 'was going' in reported speech."
+    },
+    {
+        "question": "Convert 'He exclaimed, 'How wonderful this place is!'' into reported speech.",
+        "options": [
+            "He exclaimed that it was a wonderful place.",
+            "He exclaimed how wonderful that place was.",
+            "He exclaimed that this place is wonderful.",
+            "He exclaimed how wonderful this place is."
+        ],
+        "answer": "He exclaimed that it was a wonderful place.",
+        "explanation": "Exclamations are turned into statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We can do this together''?",
+        "options": [
+            "They said that they could do this together.",
+            "They said that they can do this together.",
+            "They said they could done this together.",
+            "They said that they could do together."
+        ],
+        "answer": "They said that they could do this together.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She said, 'I will go for a walk''?",
+        "options": [
+            "She said that she would go for a walk.",
+            "She said that she will go for a walk.",
+            "She said she goes for a walk.",
+            "She said that she walked for a walk."
+        ],
+        "answer": "She said that she would go for a walk.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'He said, 'I am not feeling well today'' into reported speech.",
+        "options": [
+            "He said that he was not feeling well that day.",
+            "He said that he is not feeling well today.",
+            "He said he was not feeling well today.",
+            "He said that he wasn't feeling well today."
+        ],
+        "answer": "He said that he was not feeling well that day.",
+        "explanation": "'Am not feeling' changes to 'was not feeling' and 'today' becomes 'that day' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Can you come to the meeting?''?",
+        "options": [
+            "They asked if I could come to the meeting.",
+            "They asked if you can come to the meeting.",
+            "They asked if I could come to the meeting.",
+            "They asked if I can come to the meeting."
+        ],
+        "answer": "They asked if I could come to the meeting.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I might attend the seminar''?",
+        "options": [
+            "She said that she might attend the seminar.",
+            "She said that she may attend the seminar.",
+            "She said she might go to the seminar.",
+            "She said that she might attends the seminar."
+        ],
+        "answer": "She said that she might attend the seminar.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "Convert 'He exclaimed, 'What a surprise!'' into reported speech.",
+        "options": [
+            "He exclaimed that it was a surprise.",
+            "He exclaimed how surprising it was.",
+            "He exclaimed that it is a surprise.",
+            "He exclaimed what a surprise it was."
+        ],
+        "answer": "He exclaimed that it was a surprise.",
+        "explanation": "Exclamations are turned into statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We have been waiting for you''?",
+        "options": [
+            "They said that they had been waiting for me.",
+            "They said that they have been waiting for you.",
+            "They said they waiting for you.",
+            "They said that they waited for you."
+        ],
+        "answer": "They said that they had been waiting for me.",
+        "explanation": "'Have been waiting' changes to 'had been waiting' in reported speech."
+    },
+
+    {
+        "question": "Convert 'She said, 'I am reading a great book'' into reported speech.",
+        "options": [
+            "She said that she was reading a great book.",
+            "She said that she is reading a great book.",
+            "She said she reads a great book.",
+            "She said that she read a great book."
+        ],
+        "answer": "She said that she was reading a great book.",
+        "explanation": "'Am reading' changes to 'was reading' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'He said, 'I will visit you next week''?",
+        "options": [
+            "He said that he would visit me the following week.",
+            "He said that he will visit me next week.",
+            "He said he visited me next week.",
+            "He said that he would visit me next week."
+        ],
+        "answer": "He said that he would visit me the following week.",
+        "explanation": "'Will' changes to 'would' and 'next week' becomes 'the following week' in reported speech."
+    },
+    {
+        "question": "Convert 'They said, 'We cannot go out today'' into reported speech.",
+        "options": [
+            "They said that they could not go out that day.",
+            "They said that they cannot go out today.",
+            "They said they couldn't go out today.",
+            "They said that they weren't able to go out today."
+        ],
+        "answer": "They said that they could not go out that day.",
+        "explanation": "'Cannot' changes to 'could not' and 'today' becomes 'that day' in reported speech."
+    },
+    {
+        "question": "How do you report 'He asked, 'Have you finished your homework?''?",
+        "options": [
+            "He asked if I had finished my homework.",
+            "He asked if you had finished your homework.",
+            "He asked if I finish my homework.",
+            "He asked if you finished your homework."
+        ],
+        "answer": "He asked if I had finished my homework.",
+        "explanation": "'Have finished' changes to 'had finished' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I can help you with that''?",
+        "options": [
+            "She said that she could help me with that.",
+            "She said that she can help you with that.",
+            "She said she could help you with that.",
+            "She said that she can helps you with that."
+        ],
+        "answer": "She said that she could help me with that.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "Convert 'They said, 'We might join the club'' into reported speech.",
+        "options": [
+            "They said that they might join the club.",
+            "They said that they may join the club.",
+            "They said they might joined the club.",
+            "They said that they might joining the club."
+        ],
+        "answer": "They said that they might join the club.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "How do you report 'He said, 'I have seen that movie''?",
+        "options": [
+            "He said that he had seen that movie.",
+            "He said that he has seen that movie.",
+            "He said he seen that movie.",
+            "He said that he saw that movie."
+        ],
+        "answer": "He said that he had seen that movie.",
+        "explanation": "'Have seen' changes to 'had seen' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She exclaimed, 'This is amazing!''?",
+        "options": [
+            "She exclaimed that it was amazing.",
+            "She exclaimed how amazing it was.",
+            "She exclaimed that this was amazing.",
+            "She exclaimed what an amazing thing it was."
+        ],
+        "answer": "She exclaimed that it was amazing.",
+        "explanation": "Exclamations change to statements in reported speech."
+    },
+    {
+        "question": "Convert 'He said, 'I will go shopping tomorrow'' into reported speech.",
+        "options": [
+            "He said that he would go shopping the next day.",
+            "He said that he will go shopping tomorrow.",
+            "He said he goes shopping tomorrow.",
+            "He said that he would went shopping tomorrow."
+        ],
+        "answer": "He said that he would go shopping the next day.",
+        "explanation": "'Will' changes to 'would' and 'tomorrow' becomes 'the next day' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Did you enjoy the concert?''?",
+        "options": [
+            "They asked if I had enjoyed the concert.",
+            "They asked if you enjoyed the concert.",
+            "They asked if I enjoy the concert.",
+            "They asked if you had enjoy the concert."
+        ],
+        "answer": "They asked if I had enjoyed the concert.",
+        "explanation": "'Did enjoy' changes to 'had enjoyed' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I am tired after the trip''?",
+        "options": [
+            "She said that she was tired after the trip.",
+            "She said that she is tired after the trip.",
+            "She said she tired after the trip.",
+            "She said that she was tiring after the trip."
+        ],
+        "answer": "She said that she was tired after the trip.",
+        "explanation": "'Am tired' changes to 'was tired' in reported speech."
+    },
+    {
+        "question": "Convert 'He exclaimed, 'What a fantastic idea!'' into reported speech.",
+        "options": [
+            "He exclaimed that it was a fantastic idea.",
+            "He exclaimed how fantastic that idea was.",
+            "He exclaimed that this idea was fantastic.",
+            "He exclaimed what a fantastic idea it was."
+        ],
+        "answer": "He exclaimed that it was a fantastic idea.",
+        "explanation": "Exclamations are turned into statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We can help you with the project''?",
+        "options": [
+            "They said that they could help me with the project.",
+            "They said that they can help you with the project.",
+            "They said they can help you with the project.",
+            "They said that they could helped me with the project."
+        ],
+        "answer": "They said that they could help me with the project.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the reported speech for 'She said, 'I will call you later''?",
+        "options": [
+            "She said that she would call me later.",
+            "She said that she will call you later.",
+            "She said she calls you later.",
+            "She said that she would called you later."
+        ],
+        "answer": "She said that she would call me later.",
+        "explanation": "'Will' changes to 'would' in reported speech."
+    },
+    {
+        "question": "Convert 'He said, 'I am not sure about this'' into reported speech.",
+        "options": [
+            "He said that he was not sure about this.",
+            "He said that he is not sure about this.",
+            "He said he wasn't sure about this.",
+            "He said that he wasn't sure about it."
+        ],
+        "answer": "He said that he was not sure about this.",
+        "explanation": "'Am not sure' changes to 'was not sure' in reported speech."
+    },
+    {
+        "question": "How do you report 'They asked, 'Can we leave early?''?",
+        "options": [
+            "They asked if they could leave early.",
+            "They asked if you could leave early.",
+            "They asked if they can leave early.",
+            "They asked if they left early."
+        ],
+        "answer": "They asked if they could leave early.",
+        "explanation": "'Can' changes to 'could' in reported speech."
+    },
+    {
+        "question": "What is the correct reported speech for 'She said, 'I might join the gym''?",
+        "options": [
+            "She said that she might join the gym.",
+            "She said that she may join the gym.",
+            "She said she might joined the gym.",
+            "She said that she might joining the gym."
+        ],
+        "answer": "She said that she might join the gym.",
+        "explanation": "'Might' remains unchanged in reported speech."
+    },
+    {
+        "question": "Convert 'He exclaimed, 'How beautiful the sunset is!'' into reported speech.",
+        "options": [
+            "He exclaimed that the sunset was beautiful.",
+            "He exclaimed how beautiful the sunset was.",
+            "He exclaimed that this sunset is beautiful.",
+            "He exclaimed how beautiful this sunset was."
+        ],
+        "answer": "He exclaimed how beautiful the sunset was.",
+        "explanation": "Exclamations are turned into statements in reported speech."
+    },
+    {
+        "question": "How do you report 'They said, 'We have finished our work''?",
+        "options": [
+            "They said that they had finished their work.",
+            "They said that they have finished their work.",
+            "They said they finished their work.",
+            "They said that they were finishing their work."
+        ],
+        "answer": "They said that they had finished their work.",
+        "explanation": "'Have finished' changes to 'had finished' in reported speech."
+    }
+   ]
+
+
+

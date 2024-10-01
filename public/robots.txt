@@ -1,0 +1,6 @@
+# Allow all crawlers access to all pages by default
+User-agent: *
+Allow: /
+
+# Specify the location of the sitemap
+Sitemap: https://www.isrc.org.in/sitemap.xml

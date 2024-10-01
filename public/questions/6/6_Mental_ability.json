@@ -1,0 +1,194 @@
+[
+    {
+        "question": "What do we call the outer layer of the Earth?",
+        "options": ["Crust", "Mantle", "Core", "Lithosphere"],
+        "answer": "Crust",
+        "explanation": "The outer layer of the Earth is called the crust."
+      },
+      {
+        "question": "What is a habitat that is permanently frozen called?",
+        "options": ["Tundra", "Desert", "Rainforest", "Savanna"],
+        "answer": "Tundra",
+        "explanation": "A tundra is a habitat that is permanently frozen."
+      },
+      {
+        "question": "What is the scientific study of fungi called?",
+        "options": ["Mycology", "Botany", "Zoology", "Ecology"],
+        "answer": "Mycology",
+        "explanation": "Mycology is the scientific study of fungi."
+      },
+      {
+        "question": "What is the most abundant gas in the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "answer": "Nitrogen",
+        "explanation": "Nitrogen is the most abundant gas in the Earth's atmosphere."
+      },
+      {
+        "question": "What do we call the energy stored in an object due to its position?",
+        "options": ["Kinetic Energy", "Potential Energy", "Thermal Energy", "Mechanical Energy"],
+        "answer": "Potential Energy",
+        "explanation": "Potential energy is the energy stored in an object due to its position."
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "options": ["Tissue", "Cell", "Organ", "Organism"],
+        "answer": "Cell",
+        "explanation": "The cell is the basic unit of life."
+      },
+      {
+        "question": "What do we call the process of transferring pollen from male to female parts of flowers?",
+        "options": ["Pollination", "Fertilization", "Germination", "Photosynthesis"],
+        "answer": "Pollination",
+        "explanation": "Pollination is the transfer of pollen from male to female parts of flowers."
+      },
+      {
+        "question": "What is the term for a living thing that can make its own food?",
+        "options": ["Producer", "Consumer", "Decomposer", "Herbivore"],
+        "answer": "Producer",
+        "explanation": "Producers are living things that can make their own food, like plants."
+      },
+      {
+        "question": "What do we call an animal that only eats plants?",
+        "options": ["Carnivore", "Herbivore", "Omnivore", "Scavenger"],
+        "answer": "Herbivore",
+        "explanation": "An herbivore is an animal that only eats plants."
+      },
+      {
+        "question": "What is the primary source of energy for the water cycle?",
+        "options": ["The Sun", "The Moon", "Wind", "Earth's Core"],
+        "answer": "The Sun",
+        "explanation": "The Sun is the primary source of energy for the water cycle."
+      },
+      {
+        "question": "What type of energy is produced by moving water?",
+        "options": ["Hydropower", "Solar energy", "Wind energy", "Geothermal energy"],
+        "answer": "Hydropower",
+        "explanation": "Hydropower is energy produced by moving water."
+      },
+      {
+        "question": "What is the process of changing a liquid into a gas?",
+        "options": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+        "answer": "Evaporation",
+        "explanation": "Evaporation is the process of changing a liquid into a gas."
+      },
+      {
+        "question": "What do we call the path that an electric current follows?",
+        "options": ["Circuit", "Flow", "Pathway", "Wire"],
+        "answer": "Circuit",
+        "explanation": "A circuit is the path that an electric current follows."
+      },
+      {
+        "question": "What part of a plant carries water from the roots to the leaves?",
+        "options": ["Xylem", "Phloem", "Roots", "Stem"],
+        "answer": "Xylem",
+        "explanation": "Xylem carries water from the roots to the leaves."
+      },
+      {
+        "question": "What type of rock is formed from cooled lava?",
+        "options": ["Sedimentary", "Metamorphic", "Igneous", "Fossil"],
+        "answer": "Igneous",
+        "explanation": "Igneous rocks are formed from cooled lava or magma."
+      },
+      {
+        "question": "What is the term for animals that hibernate?",
+        "options": ["Migratory", "Adaptable", "Ectothermic", "Endothermic"],
+        "answer": "Migratory",
+        "explanation": "Migratory animals often hibernate in response to environmental changes."
+      },
+      {
+        "question": "What is the role of decomposers in an ecosystem?",
+        "options": ["To produce energy", "To consume plants", "To break down dead matter", "To attract pollinators"],
+        "answer": "To break down dead matter",
+        "explanation": "Decomposers break down dead matter and return nutrients to the soil."
+      },
+      {
+        "question": "What is the main component of the cell membrane?",
+        "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic Acids"],
+        "answer": "Lipids",
+        "explanation": "The cell membrane is primarily composed of lipids."
+      },
+      {
+        "question": "What is the main purpose of the immune system?",
+        "options": ["To digest food", "To protect against diseases", "To circulate blood", "To produce hormones"],
+        "answer": "To protect against diseases",
+        "explanation": "The immune system protects the body against diseases."
+      },
+      {
+        "question": "What type of rock is formed from sediments?",
+        "options": ["Igneous", "Metamorphic", "Sedimentary", "Fossil"],
+        "answer": "Sedimentary",
+        "explanation": "Sedimentary rocks are formed from compressed sediments."
+      },
+      {
+        "question": "What is the process of a seed developing into a plant called?",
+        "options": ["Germination", "Fertilization", "Pollination", "Photosynthesis"],
+        "answer": "Germination",
+        "explanation": "Germination is the process of a seed developing into a plant."
+      },
+      {
+        "question": "What do we call a scientist who studies animals?",
+        "options": ["Zoologist", "Botanist", "Geologist", "Ecologist"],
+        "answer": "Zoologist",
+        "explanation": "A zoologist studies animals."
+      },
+      {
+        "question": "What is the function of the kidneys?",
+        "options": ["To pump blood", "To filter waste from blood", "To digest food", "To produce hormones"],
+        "answer": "To filter waste from blood",
+        "explanation": "The kidneys filter waste products from the blood."
+      },
+      {
+        "question": "What do we call a mixture of two or more substances?",
+        "options": ["Compound", "Element", "Solution", "Molecule"],
+        "answer": "Solution",
+        "explanation": "A solution is a mixture of two or more substances."
+      },
+      {
+        "question": "What is the primary function of the nervous system?",
+        "options": ["To move the body", "To control and coordinate body activities", "To digest food", "To transport oxygen"],
+        "answer": "To control and coordinate body activities",
+        "explanation": "The nervous system controls and coordinates body activities."
+      },
+      {
+        "question": "What do we call the science of classifying living things?",
+        "options": ["Taxonomy", "Ecology", "Biochemistry", "Genetics"],
+        "answer": "Taxonomy",
+        "explanation": "Taxonomy is the science of classifying living things."
+      },
+      {
+        "question": "What is the process of converting sunlight into chemical energy in plants?",
+        "options": ["Photosynthesis", "Respiration", "Digestion", "Evaporation"],
+        "answer": "Photosynthesis",
+        "explanation": "Photosynthesis is the process of converting sunlight into chemical energy in plants."
+      },
+      {
+        "question": "What do we call the natural home or environment of an animal?",
+        "options": ["Biome", "Ecosystem", "Habitat", "Niche"],
+        "answer": "Habitat",
+        "explanation": "A habitat is the natural home of an animal."
+      },
+      {
+        "question": "What is the term for the change in an organism’s DNA?",
+        "options": ["Adaptation", "Mutation", "Evolution", "Variation"],
+        "answer": "Mutation",
+        "explanation": "A mutation is a change in an organism's DNA."
+      },
+      {
+        "question": "What is the primary component of the human skeleton?",
+        "options": ["Cartilage", "Tendons", "Bones", "Ligaments"],
+        "answer": "Bones",
+        "explanation": "Bones are the primary components of the human skeleton."
+      },
+      {
+        "question": "What type of energy is associated with motion?",
+        "options": ["Potential Energy", "Kinetic Energy", "Thermal Energy", "Chemical Energy"],
+        "answer": "Kinetic Energy",
+        "explanation": "Kinetic energy is the energy associated with motion."
+      },
+      {
+        "question": "What is the term for a scientist who studies the Earth's physical structure and substances?",
+        "options": ["Meteorologist", "Geologist", "Oceanographer", "Biologist"],
+        "answer": "Geologist",
+        "explanation": "A geologist studies the Earth's physical structure and substances."
+      }
+]
