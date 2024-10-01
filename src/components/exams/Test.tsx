@@ -42,11 +42,11 @@ const questionDistributions: {
   },
   "6": {
     subjects: {
-      English: 1,
-      Mathematics: 1,
-      Mental_ability: 1,
-      Science: 1,
-      Social_Science: 1,
+      English: 5,
+      Mathematics: 5,
+      Mental_ability: 5,
+      Science: 5,
+      Social_Science: 5,
     },
   },
   "7": {
