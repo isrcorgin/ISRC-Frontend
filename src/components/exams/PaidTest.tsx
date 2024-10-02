@@ -39,11 +39,11 @@ const questionDistributions: { [standard: string]: { subjects: { [subject: strin
   },
   "6": {
     subjects: {
-      English: 1,
-      Mathematics: 1,
-      Mental_ability: 1,
-      Science: 2,
-      Social_Science: 2,
+      English: 20,
+      Mathematics: 25,
+      Mental_ability: 10,
+      Science: 25,
+      Social_Science: 20,
     },
   },
   "7": {
