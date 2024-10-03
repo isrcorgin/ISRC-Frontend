@@ -9,7 +9,7 @@ import Navbar from "@/components/Layouts/Navbar";
 import Head from 'next/head';
 import { useRouter } from 'next/navigation';
 import SimpleForm from "@/components/gio-profile/gioprofile";
-import Select, { ActionMeta, MultiValue } from 'react-select';
+import Select from 'react-select';
 import countryList from 'react-select-country-list';
 
 const bannerImageUrl = "/img/gio.avif";
@@ -207,21 +207,14 @@ const countryCodeMapping: { [key: string]: string } = {
   'Zambia': '+260',
   'Zimbabwe': '+263',
 };
-interface SocialMediaOption {
-  label: string;
-  value: string;
-}
 
 interface ProfileData {
-  age: string;
-  college: string;
   country: {
     label: string;
     value: string;
   };
   email: string;
   isregisterd: boolean;
-  location: string;
   name: string;
   number: string;
   payments: {
@@ -238,10 +231,6 @@ interface ProfileData {
       status: string;
     };
   };
-  socialMedia: SocialMediaOption[];
-  socialMediaLinks: {
-    [key: string]: string;
-  };
   mockRank: string;
   std: string;
   teacherNumber: string;
@@ -250,7 +239,7 @@ interface ProfileData {
   globalRank:string,
   indianRank:string,
   stateRank:string,
-
+  school: string,
 }
 
 interface FormData {
@@ -259,19 +248,13 @@ interface FormData {
   number: string;
   whatsappNumber: string;
   teacherNumber: string;
-  location: string;
-  college: string;
-  age: string;
   useWhatsappNumber: boolean;
   std: string;
   country: {
     label: string;
     value: string;
   } | null;
-  socialMedia: SocialMediaOption[];
-  socialMediaLinks: {
-    [key: string]: string;
-  };
+  school: string;
 }
 
 const initialFormState: FormData = {
@@ -280,14 +263,10 @@ const initialFormState: FormData = {
   number: '',
   whatsappNumber: '',
   teacherNumber: '',
-  location: '',
-  college: '',
-  age: '',
   useWhatsappNumber: false,
   std: '',
   country: null,
-  socialMedia: [],
-  socialMediaLinks: {}
+  school: ''
 };
 
 
@@ -299,15 +278,6 @@ export default function UserForm() {
   const router = useRouter();
   
   const countryOptions = countryList().getData();
-
-  const socialMediaOptions: SocialMediaOption[] = [
-    { value: 'facebook', label: 'Facebook' },
-    { value: 'twitter', label: 'Twitter' },
-    { value: 'instagram', label: 'Instagram' },
-    { value: 'linkedin', label: 'LinkedIn' },
-    { value: 'github', label: 'GitHub' },
-    // Add more social media platforms as needed
-  ];
 
   useEffect(() => {
     const storedToken = JSON.parse(localStorage.getItem('token') || 'null');
@@ -399,29 +369,6 @@ export default function UserForm() {
     }));
   };
 
-  // Handler for social media selection
-  const handleSocialMediaChange = (
-    newValue: MultiValue<SocialMediaOption>,
-    actionMeta: ActionMeta<SocialMediaOption>
-  ) => {
-    setFormData(prevData => ({
-      ...prevData,
-      socialMedia: newValue ? [...newValue] : []
-    }));
-  };
-
-  // Handler for social media link input
-  const handleSocialMediaLinkChange = (e: React.ChangeEvent<HTMLInputElement>, platform: string) => {
-    const { value } = e.target;
-    setFormData(prevData => ({
-      ...prevData,
-      socialMediaLinks: {
-        ...prevData.socialMediaLinks,
-        [platform]: value
-      }
-    }));
-  };
-
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
   
@@ -435,16 +382,10 @@ export default function UserForm() {
       return;
     }
 
-    // Combine social media links into the formData
-    const submissionData = {
-      ...formData,
-      socialMediaLinks: formData.socialMediaLinks
-    };
-  
     try {
       await axios.post(
         `${process.env.NEXT_PUBLIC_API_HOSTNAME}/api/gio-event/submit-gio-form`,
-        submissionData,
+        formData,
         {
           headers: {
             Authorization: `Bearer ${token}`,
@@ -609,7 +550,7 @@ export default function UserForm() {
             {/* Teacher's Phone Number */}
             <div>
               <label htmlFor="teacherNumber" className="block text-sm font-medium text-gray-700">
-                Teacher's Phone Number <span className="text-red-500">*</span>
+                Teacher's Phone Number
               </label>
               <input
                 type="text"
@@ -618,60 +559,7 @@ export default function UserForm() {
                 value={formData.teacherNumber}
                 onChange={handleChange}
                 placeholder="Enter teacher's phone number"
-                required
                 className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 focus:ring-indigo-500 focus:border-indigo-500"
-              />
-            </div>
-
-            {/* Location */}
-            <div>
-              <label htmlFor="location" className="block text-sm font-medium text-gray-700">
-                Location <span className="text-red-500">*</span>
-              </label>
-              <input
-                type="text"
-                id="location"
-                name="location"
-                value={formData.location}
-                onChange={handleChange}
-                placeholder="Enter your location"
-                required
-                className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 focus:ring-indigo-500 focus:border-indigo-500"
-              />
-            </div>
-
-            {/* College/University */}
-            <div>
-              <label htmlFor="college" className="block text-sm font-medium text-gray-700">
-                College/University <span className="text-red-500">*</span>
-              </label>
-              <input
-                type="text"
-                id="college"
-                name="college"
-                value={formData.college}
-                onChange={handleChange}
-                placeholder="Enter your college/university"
-                required
-                className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 focus:ring-indigo-500 focus:border-indigo-500"
-              />
-            </div>
-
-            {/* Age */}
-            <div>
-              <label htmlFor="age" className="block text-sm font-medium text-gray-700">
-                Age <span className="text-red-500">*</span>
-              </label>
-              <input
-                type="number"
-                id="age"
-                name="age"
-                value={formData.age}
-                onChange={handleChange}
-                placeholder="Enter your age"
-                required
-                className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 focus:ring-indigo-500 focus:border-indigo-500"
-                min="1"
               />
             </div>
 
@@ -695,38 +583,22 @@ export default function UserForm() {
               </select>
             </div>
 
-            {/* Social Media Selection */}
+            {/* School */}
             <div>
-              <label htmlFor="socialMedia" className="block text-sm font-medium text-gray-700">
-                Social Media Platforms For teacher
+              <label htmlFor="school" className="block text-sm font-medium text-gray-700">
+                School <span className="text-red-500">*</span>
               </label>
-              <Select
-                options={socialMediaOptions}
-                isMulti
-                value={formData.socialMedia}
-                onChange={handleSocialMediaChange}
-                placeholder="Select social media platforms"
-                className="mt-1"
+              <input
+                type="text"
+                id="school"
+                name="school"
+                value={formData.school}
+                onChange={handleChange}
+                placeholder="Enter your school name"
+                required
+                className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 focus:ring-indigo-500 focus:border-indigo-500"
               />
             </div>
-
-            {/* Social Media Links */}
-            {formData.socialMedia.map(platform => (
-              <div key={platform.value} className="mt-2">
-                <label htmlFor={`socialMediaLink-${platform.value}`} className="block text-sm font-medium text-gray-700 capitalize">
-                  {platform.label} Profile Link
-                </label>
-                <input
-                  type="url"
-                  id={`socialMediaLink-${platform.value}`}
-                  name={`socialMediaLink-${platform.value}`}
-                  value={formData.socialMediaLinks[platform.value] || ''}
-                  onChange={(e) => handleSocialMediaLinkChange(e, platform.value)}
-                  placeholder={`Enter your ${platform.label} profile link`}
-                  className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 focus:ring-indigo-500 focus:border-indigo-500"
-                />
-              </div>
-            ))}
 
             {/* Submit Button */}
             <div className="text-center">

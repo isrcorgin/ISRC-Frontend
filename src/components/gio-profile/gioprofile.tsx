@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React, { useEffect, useState } from 'react';
-import { Mail, Phone, MapPin, School, Calendar, Globe, Flag as FlagIcon } from "lucide-react";
+import { Mail, Phone, School, Globe, Flag as FlagIcon } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
@@ -12,13 +12,8 @@ import axios from 'axios';
 interface ProfileData {
   name: string;
   email: string;
-  number: string;
-  useWhatsappNumber: boolean;
-  whatsappNumber: string;
-  teacherNumber: string;
-  location: string;
-  college: string;
-  age: string;
+  number?: string;
+  school: string;
   std: string;
   globalRank: string;
   mockRank: string;
@@ -39,13 +34,8 @@ const SimpleForm = ({ profileData }: { profileData: ProfileData }) => {
       setData({
         name: profileData.name || '',
         email: profileData.email || '',
-        number: profileData.number || '',
-        useWhatsappNumber: profileData.useWhatsappNumber || false,
-        whatsappNumber: profileData.whatsappNumber || '',
-        teacherNumber: profileData.teacherNumber || '',
-        location: profileData.location || '',
-        college: profileData.college || '',
-        age: profileData.age || '',
+        number: profileData.number,
+        school: profileData.school || '',
         std: profileData.std || '',
         globalRank: profileData.globalRank || '',
         mockRank: profileData.mockRank || '',
@@ -73,23 +63,7 @@ const SimpleForm = ({ profileData }: { profileData: ProfileData }) => {
         setMockRank('Attempt to see your ranking');
       });
 
-    // Fetch Global Rank
-    axios.get(`${process.env.NEXT_PUBLIC_API_HOSTNAME}/api/gio-event/getGlobalRank`, {
-      headers: {
-        Authorization: `Bearer ${token}`,  // Add token to Authorization header
-      },
-    })
-      .then(response => {
-        if (response.data && typeof response.data.rank === 'number') {
-          setGlobalRank(response.data.rank.toString());
-        } else {
-          setGlobalRank('Attempt to see your ranking');
-        }
-      })
-      .catch(error => {
-        console.error('Error fetching global rank:', error);
-        setGlobalRank('Attempt to see your ranking');
-      });
+    // Global Rank is not fetched, we'll just show "Attempt to see your ranking"
   }, [profileData]);
 
   return (
@@ -137,12 +111,14 @@ const SimpleForm = ({ profileData }: { profileData: ProfileData }) => {
                     </div>
                   )}
 
-                  <div className="flex items-center gap-3">
-                    <Phone className="w-5 h-5 text-[#FF2D55]" />
-                    <span className="text-sm text-gray-600">
-                      {data ? data.number : 'Loading...'}
-                    </span>
-                  </div>
+                  {data?.number && (
+                    <div className="flex items-center gap-3">
+                      <Phone className="w-5 h-5 text-[#FF2D55]" />
+                      <span className="text-sm text-gray-600">
+                        {data.number}
+                      </span>
+                    </div>
+                  )}
                 </div>
               </div>
 
@@ -150,23 +126,9 @@ const SimpleForm = ({ profileData }: { profileData: ProfileData }) => {
                 <h3 className="text-lg font-semibold text-gray-800">Personal Information</h3>
                 <div className="grid gap-3">
                   <div className="flex items-center gap-3">
-                    <MapPin className="w-5 h-5 text-[#FF2D55]" />
-                    <span className="text-sm text-gray-600">
-                      {data ? data.location : 'Loading...'}
-                    </span>
-                  </div>
-
-                  <div className="flex items-center gap-3">
                     <School className="w-5 h-5 text-[#FF2D55]" />
                     <span className="text-sm text-gray-600">
-                      {data ? data.college : 'Loading...'}
-                    </span>
-                  </div>
-
-                  <div className="flex items-center gap-3">
-                    <Calendar className="w-5 h-5 text-[#FF2D55]" />
-                    <span className="text-sm text-gray-600">
-                      Age: {data ? data.age : 'Loading...'}
+                      {data ? data.school : 'Loading...'}
                     </span>
                   </div>
                 </div>
@@ -184,7 +146,9 @@ const SimpleForm = ({ profileData }: { profileData: ProfileData }) => {
                     <FlagIcon className="w-6 h-6 text-[#FF2D55] mx-auto mb-2" />
                     <p className="text-sm font-medium text-gray-800">Mock Rank</p>
                     <Badge variant="secondary" className="mt-1">
-                      {mockRank}
+                      <span className="text-sm font-medium">
+                        {isNaN(Number(mockRank)) ? mockRank : <strong>#{mockRank}</strong>}
+                      </span>
                     </Badge>
                   </div>
                   <div className="mt-4 text-center">
@@ -204,7 +168,7 @@ const SimpleForm = ({ profileData }: { profileData: ProfileData }) => {
                     <Globe className="w-6 h-6 text-[#FF2D55] mx-auto mb-2" />
                     <p className="text-sm font-medium text-gray-800">Global Rank</p>
                     <Badge variant="secondary" className="mt-1">
-                      {globalRank}
+                      <span className="text-sm font-medium">Attempt to see your ranking</span>
                     </Badge>
                   </div>
                   <div className="mt-4 text-center">
