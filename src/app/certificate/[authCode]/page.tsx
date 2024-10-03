@@ -28,7 +28,7 @@ const CertificatePage = () => {
         const pdfPath = type === "st" ? "/certificate/STUDENT.pdf" :
                         type === "stw" ? "/certificate/workshopwinner.pdf" :
                         type === "ed" ? "/certificate/Inspringeducatoraward.pdf" : 
-                        type === "SEC" ? "/certificate/ISRC_LINKEDIN_CERTIFICATE.pdf": 
+                        type === "sec" ? "/certificate/ISRC_LINKEDIN_CERTIFICATE.pdf": 
                         type === "eaw" ? "/certificate/engineerAwardWinner.pdf": 
                         type === "eap" ? "/certificate/engineerAwardParticipate.pdf":
                         "/certificate/ISRC Institutional Membership.pdf";
@@ -293,14 +293,14 @@ const CertificatePage = () => {
                 });
 
                 break;
-                case "SEC":
+                case "sec":
                   if (name) {
                     const nameTextWidth = helveticabold.widthOfTextAtSize(name, 20);
                     const pageCenter = firstPage.getWidth() / 2;
                     const nameXPosition = pageCenter - nameTextWidth / 2;
                 
                     firstPage.drawText(name, {
-                      x: nameXPosition,  // Center the name text
+                      x: nameXPosition+50,  // Center the name text
                       y: height - 250,   // Adjust y position as needed
                       size: 25,
                       font: helveticabold,
