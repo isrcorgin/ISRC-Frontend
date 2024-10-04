@@ -121,7 +121,6 @@ const fetchQuestions = async (std: string, subject: string): Promise<Question[]>
       throw new Error(`Failed to fetch questions for ${subject}. Status: ${response.status}`);
     }
     const data = await response.json();
-    console.log(`Fetched ${data.length} questions for ${subject}`);
     return data;
   } catch (error) {
     console.error(`Error fetching questions for ${subject}:`, error);
@@ -211,11 +210,9 @@ const PaidTest: React.FC<{ token: string }> = ({ token }) => {
     const loadQuestions = async () => {
       try {
         const std = await fetchUserStandard(token);
-        console.log("Fetched standard:", std);
 
         const subjectDistribution = questionDistributions[std].subjects;
         const totalQuestions = Object.values(subjectDistribution).reduce((a, b) => a + b, 0);
-        console.log("Total Questions:", totalQuestions);
         setTotalQuestions(totalQuestions);
 
         const allQuestions: Question[] = [];
@@ -224,7 +221,6 @@ const PaidTest: React.FC<{ token: string }> = ({ token }) => {
         const questionsPromises = Object.entries(subjectDistribution).map(async ([subject, count]) => {
           const questions = await fetchQuestions(std, subject);
           const selected = getRandomQuestions(count, questions);
-          console.log(`Selected ${selected.length} questions for ${subject}`);
           return selected;
         });
 
@@ -232,7 +228,6 @@ const PaidTest: React.FC<{ token: string }> = ({ token }) => {
         questionsArrays.forEach((questions) => allQuestions.push(...questions));
 
         setSelectedQuestions(allQuestions);
-        console.log("Total Selected Questions:", allQuestions.length);
 
         setTimeLeft(45);
       } catch (error) {
@@ -324,7 +319,6 @@ const PaidTest: React.FC<{ token: string }> = ({ token }) => {
   };
 
   const currentQuestion = selectedQuestions[currentQuestionIndex];
-  console.log("Current Question:", currentQuestion);
 
   return (
     <React.Fragment>

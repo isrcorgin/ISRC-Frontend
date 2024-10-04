@@ -98,18 +98,6 @@ const menuItems = (token: string | null): MenuItemType[] => [
           { label: "10th Std", link: "#", pdfUrl: "/rules/syllabus/10TH.pdf" },
         ]
       },
-      {
-        label: "Booklet",
-        link: "#",
-        subItems: [
-          { label: "5th Std", link: "#", pdfUrl: "/rules/booklet/5TH.pdf" },
-          { label: "6th Std", link: "#", pdfUrl: "/rules/booklet/6TH.pdf" },
-          { label: "7th Std", link: "#", pdfUrl: "/rules/booklet/7TH.pdf" },
-          { label: "8th Std", link: "#", pdfUrl: "/rules/booklet/8TH.pdf" },
-          { label: "9th Std", link: "#", pdfUrl: "/rules/booklet/9TH.pdf" },
-          { label: "10th Std", link: "#", pdfUrl: "/rules/booklet/10TH.pdf" },
-        ]
-      },
     ]
   },
   {
