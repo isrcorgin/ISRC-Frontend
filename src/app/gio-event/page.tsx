@@ -294,6 +294,7 @@ export default function UserForm() {
         checkRegistrationStatus(storedToken);
       }
     } else {
+      router.push("/auth/login")
       toast.warn('You need to log in first to fill out the form.');
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -333,7 +334,8 @@ export default function UserForm() {
             },
           }
         );
-
+        console.log(response);
+        
         setProfileData(response.data);
       } catch (error) {
         console.error('Error fetching profile:', error);
