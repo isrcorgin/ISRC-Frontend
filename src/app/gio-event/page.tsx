@@ -568,7 +568,7 @@ export default function UserForm() {
             {/* Standard */}
             <div>
               <label htmlFor="std" className="block text-sm font-medium text-gray-700">
-                Standard <span className="text-red-500">*</span>
+                Standard/Grade <span className="text-red-500">*</span>
               </label>
               <select
                 id="std"

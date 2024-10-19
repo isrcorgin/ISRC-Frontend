@@ -1,12 +1,13 @@
 "use client";
 
-import React, { useState, useEffect, useContext } from "react";
+import React, { useState, useEffect, useContext, useCallback } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import AuthContext, { AuthContextType } from "@/context/AuthContext";
 import { useRouter } from "next/navigation";
 import { FlagIcon } from "react-flag-kit";
-import { Modal } from 'react-bootstrap';
+import { Modal } from "react-bootstrap";
+import { usePathname } from "next/navigation";
 
 // Define the type for menu items to handle React nodes in labels
 interface MenuItemType {
@@ -15,6 +16,15 @@ interface MenuItemType {
   subItems?: MenuItemType[];
   pdfUrl?: string;
 }
+
+// Simple debounce function
+const debounce = (func: Function, wait: number) => {
+  let timeout: NodeJS.Timeout;
+  return (...args: any[]) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => func(...args), wait);
+  };
+};
 
 // Menu data with submenus for Blog and Video
 const menuItems = (token: string | null): MenuItemType[] => [
@@ -40,17 +50,17 @@ const menuItems = (token: string | null): MenuItemType[] => [
             Campus Amb <FlagIcon code="IN" size={15} />
           </>
         ),
-        link: "/campus-ambassador/"
+        link: "/campus-ambassador/",
       },
       {
         label: "International Campus Amb.",
-        link: "/international-campus-ambassador"
+        link: "/international-campus-ambassador",
       },
       {
         label: "STEM & Robotics Amb.",
-        link: "/stem-ambassador/"
-      }
-    ]
+        link: "/stem-ambassador/",
+      },
+    ],
   },
   {
     label: (
@@ -72,18 +82,23 @@ const menuItems = (token: string | null): MenuItemType[] => [
         label: "Event",
         link: "/event",
       },
-    ]
+    ],
   },
   {
     label: (
-      <span style={{ display: 'inline-block', textAlign: 'center' }}>
-        {'Olympiad'}<br/>
+      <span style={{ display: "inline-block", textAlign: "center" }}>
+        {"Olympiad"}
+        <br />
       </span>
     ),
     link: "/gio-event",
     subItems: [
       {
         label: "Registration",
+        link: "/gio-event",
+      },
+      {
+        label: "View Profile",
         link: "/gio-event",
       },
       {
@@ -96,14 +111,15 @@ const menuItems = (token: string | null): MenuItemType[] => [
           { label: "8th Std", link: "#", pdfUrl: "/rules/syllabus/8TH.pdf" },
           { label: "9th Std", link: "#", pdfUrl: "/rules/syllabus/9TH.pdf" },
           { label: "10th Std", link: "#", pdfUrl: "/rules/syllabus/10TH.pdf" },
-        ]
+        ],
       },
-    ]
+    ],
   },
   {
     label: (
-      <span style={{ display: 'inline-block', textAlign: 'center' }}>
-        {'Verify Certificate'}<br/>
+      <span style={{ display: "inline-block", textAlign: "center" }}>
+        {"Verify Certificate"}
+        <br />
       </span>
     ),
     link: "/verify",
@@ -116,12 +132,14 @@ const MenuItem: React.FC<{
   link: string;
   subItems?: MenuItemType[];
   pdfUrl?: string;
-}> = ({ label, link, subItems, pdfUrl }) => {
+  onClick?: React.MouseEventHandler; // Generalized onClick type
+}> = ({ label, link, subItems, pdfUrl, onClick }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [showPdf, setShowPdf] = useState(false);
-  const [pdfSrc, setPdfSrc] = useState('');
+  const [pdfSrc, setPdfSrc] = useState("");
+  const pathname = usePathname();
 
-  const toggleSubMenu = (event: React.MouseEvent) => {
+  const toggleSubMenu: React.MouseEventHandler = (event) => {
     event.preventDefault();
     setIsOpen(!isOpen);
   };
@@ -133,24 +151,29 @@ const MenuItem: React.FC<{
 
   const handleClose = () => {
     setShowPdf(false);
-    setPdfSrc('');
+    setPdfSrc("");
   };
 
+  // Determine if the current link is active
+  const isActive = pathname === link;
+
   return (
-    <li className={`nav-item${subItems ? ' dropdown' : ''}`}>
+    <li className={`nav-item${subItems ? " dropdown" : ""}`}>
       <Link
         href={link}
-        className={`nav-link${subItems ? ' dropdown-toggle' : ''}`}
-        data-bs-toggle={subItems ? 'dropdown' : ''}
-        onClick={subItems ? toggleSubMenu : pdfUrl ? (e) => {
-          e.preventDefault();
-          handleShowPdf(pdfUrl);
-        } : undefined}
+        className={`nav-link${subItems ? " dropdown-toggle" : ""} ${
+          isActive ? "active" : ""
+        }`}
+        data-bs-toggle={subItems ? "dropdown" : ""}
+        onClick={onClick || (subItems ? toggleSubMenu : undefined)}
       >
         {label}
       </Link>
       {subItems && (
-        <ul className={`dropdown-menu${isOpen ? ' show' : ''}`} style={{ display: isOpen ? 'block' : 'none', width: '22vw' }}>
+        <ul
+          className={`dropdown-menu${isOpen ? " show" : ""}`}
+          style={{ display: isOpen ? "block" : "none", width: "22vw" }}
+        >
           {subItems.map((subItem, index) => (
             <li key={index}>
               <MenuItem {...subItem} />
@@ -163,12 +186,7 @@ const MenuItem: React.FC<{
           <Modal.Title>PDF Viewer</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <embed
-            src={pdfSrc}
-            type="application/pdf"
-            width="100%"
-            height="800px"
-          />
+          <embed src={pdfSrc} type="application/pdf" width="100%" height="800px" />
         </Modal.Body>
       </Modal>
     </li>
@@ -181,16 +199,31 @@ const Navbar: React.FC = () => {
   const [menu, setMenu] = useState(true);
   const router = useRouter();
   const { teamRegister, logout } = useContext(AuthContext) as AuthContextType;
+  const pathname = usePathname();
 
   // Toggle the mobile menu
   const toggleNavbar = () => {
     setMenu(!menu);
   };
 
+  // Debounced scroll handler
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const handleScroll = useCallback(
+    debounce(() => {
+      const elementId = document.getElementById("navbar");
+      if (window.scrollY > 170) {
+        elementId?.classList.add("is-sticky");
+      } else {
+        elementId?.classList.remove("is-sticky");
+      }
+    }, 100),
+    []
+  );
+
   useEffect(() => {
     // Function to read token from local storage
     const fetchTokenFromLocalStorage = () => {
-      const storedToken = localStorage.getItem('token');
+      const storedToken = localStorage.getItem("token");
       setToken(storedToken ? JSON.parse(storedToken) : null);
     };
 
@@ -198,38 +231,88 @@ const Navbar: React.FC = () => {
     fetchTokenFromLocalStorage();
 
     // Add scroll event listener
-    const handleScroll = () => {
-      const elementId = document.getElementById("navbar");
-      if (window.scrollY > 170) {
-        elementId?.classList.add("is-sticky");
-      } else {
-        elementId?.classList.remove("is-sticky");
-      }
-    };
-
     document.addEventListener("scroll", handleScroll);
 
     // Clean up event listener on component unmount
     return () => {
       document.removeEventListener("scroll", handleScroll);
     };
-  }, []);
+  }, [handleScroll]);
+
+  // Function to handle Registration and View Profile clicks
+  const handleRegistrationClick: React.MouseEventHandler = (event) => {
+    event.preventDefault();
+    if (token) {
+      if (teamRegister) {
+        // Redirect to "/gio-event" if logged in and registered
+        router.push("/gio-event");
+      } else {
+        // Redirect to registration form if logged in but not registered
+        router.push("/gio-event"); // Update to the actual registration page if different
+      }
+    } else {
+      // Redirect to login page if not logged in
+      router.push("/auth/login");
+    }
+  };
+
+  // Function to render authentication buttons
+  const renderAuthButtons = () => {
+    if (token) {
+      if (teamRegister) {
+        return (
+          <ul style={{ display: "flex", gap: "10px" }}>
+            <li>
+              <Link href="/profile" className="btn btn-primary">
+                PROFILE
+              </Link>
+            </li>
+            <li>
+              <button onClick={logout} className="btn btn-danger">
+                Logout
+              </button>
+            </li>
+          </ul>
+        );
+      } else {
+        return (
+          <ul style={{ display: "flex", gap: "10px" }}>
+            <li>
+              <button className="btn btn-primary" onClick={handleRegistrationClick}>
+                Register
+              </button>
+            </li>
+            <li>
+              <button onClick={logout} className="btn btn-danger">
+                Logout
+              </button>
+            </li>
+          </ul>
+        );
+      }
+    } else {
+      return (
+        <Link href="/auth/login" className="btn btn-primary">
+          Register/Login
+        </Link>
+      );
+    }
+  };
 
   // Navbar classes
-  const classOne = menu ? "collapse navbar-collapse mean-menu" : "collapse navbar-collapse show";
-  const classTwo = menu ? "navbar-toggler navbar-toggler-right collapsed" : "navbar-toggler navbar-toggler-right";
+  const classOne = menu
+    ? "collapse navbar-collapse mean-menu"
+    : "collapse navbar-collapse show";
+  const classTwo = menu
+    ? "navbar-toggler navbar-toggler-right collapsed"
+    : "navbar-toggler navbar-toggler-right";
 
   return (
     <div id="navbar" className="elkevent-nav">
       <nav className="navbar navbar-expand-lg navbar-light" style={{ maxHeight: "90px" }}>
         <div className="container">
           <Link href="/" className="navbar-brand">
-            <Image
-              src="/img/isrc-b.png"
-              alt="logo"
-              width={180}
-              height={58}
-            />
+            <Image src="/img/isrc-b.png" alt="logo" width={180} height={58} />
           </Link>
 
           <button
@@ -239,7 +322,7 @@ const Navbar: React.FC = () => {
             data-toggle="collapse"
             data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent"
-            aria-expanded="false"
+            aria-expanded={menu}
             aria-label="Toggle navigation"
           >
             <span className="icon-bar top-bar"></span>
@@ -250,50 +333,36 @@ const Navbar: React.FC = () => {
           <div className={classOne} id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto">
               {menuItems(token).map((menuItem, index) => (
-                <MenuItem key={index} {...menuItem} />
+                <MenuItem
+                  key={index}
+                  {...menuItem}
+                  onClick={
+                    // Check if the menuItem or any of its subItems have the labels "Registration" or "View Profile"
+                    ((): React.MouseEventHandler | undefined => {
+                      const checkLabel = (item: MenuItemType): boolean => {
+                        if (typeof item.label === "string") {
+                          return item.label === "Registration" || item.label === "View Profile";
+                        } else if (React.isValidElement(item.label)) {
+                          // If label is a React element, you might need a different approach
+                          // Here, we assume it's not "Registration" or "View Profile"
+                          return false;
+                        }
+                        return false;
+                      };
+
+                      if (checkLabel(menuItem)) {
+                        return handleRegistrationClick;
+                      }
+
+                      return undefined;
+                    })()
+                  }
+                />
               ))}
             </ul>
 
             {/* others-options */}
-            <div className="others-option">
-              {token ? (
-                teamRegister ? (
-                  <ul style={{ display: "flex", gap: "10px" }}>
-                    <li>
-                      <Link href="/profile" className="btn btn-primary">
-                        PROFILE
-                      </Link>
-                    </li>
-                    <li>
-                      <button onClick={logout} className="btn btn-primary">
-                        LOGOUT
-                      </button>
-                    </li>
-                  </ul>
-                ) : (
-                  <ul style={{ display: "flex", gap: "10px" }}>
-                    <li>
-                      <Link href="/team-register" className="btn btn-primary">
-                        REGISTER
-                      </Link>
-                    </li>
-                    <li>
-                      <button onClick={logout} className="btn btn-primary">
-                        LOGOUT
-                      </button>
-                    </li>
-                  </ul>
-                )
-              ) : (
-                <ul>
-                  <li>
-                    <Link href="/auth/login" className="btn btn-primary">
-                      Login
-                    </Link>
-                  </li>
-                </ul>
-              )}
-            </div>
+            <div className="others-option">{renderAuthButtons()}</div>
           </div>
         </div>
       </nav>
