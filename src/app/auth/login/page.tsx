@@ -59,7 +59,7 @@ export default function Page() {
               )}
               <div className="text-center mb-4">
                 <p className="text-muted">
-                  Registration Process <Link href="https://youtube.com/playlist?list=PLjVmoFTyLUc5UriOODzVcsprJCi2k90BL&si=AyDzzrruLZjglsRK" style={{ color: '#FF2D55', textDecoration: 'underline' }}>video</Link>
+                  Registration Process <Link href="https://youtu.be/lO4j4W_TONE" style={{ color: '#FF2D55', textDecoration: 'underline' }}>video</Link>
                 </p>
               </div>
               <form onSubmit={handleLogin}>
