@@ -11,7 +11,7 @@ const PaymentComponent: React.FC = () => {
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [razorpayLoaded, setRazorpayLoaded] = useState<boolean>(false);
   const router = useRouter();
-  const amount = 300; // Fixed amount for payment
+  const amount = 100; // Fixed amount for payment
 
   useEffect(() => {
     const loadRazorpayScript = () => {
@@ -73,7 +73,7 @@ const PaymentComponent: React.FC = () => {
         amount: order.data.amount,
         currency: order.data.currency,
         name: 'ISRC',
-        description: 'Fixed Payment of 300 Rupees',
+        description: 'Fixed Payment of 100 Rupees',
         order_id: order.data.id,
         handler: async (response) => {
           try {
@@ -146,7 +146,7 @@ const PaymentComponent: React.FC = () => {
           className="btn btn-primary w-100 py-3"
           style={{ fontSize: '1.2rem', borderRadius: '8px', transition: 'background-color 0.3s' }}
         >
-          {isLoading ? 'Processing...' : 'Pay 300 Rupees'}
+          {isLoading ? 'Processing...' : 'Pay 100 Rupees'}
         </button>
       </div>
     </div>
