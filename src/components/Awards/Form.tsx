@@ -1062,7 +1062,7 @@ const Form = () => {
     storedData.push(finalData);
     localStorage.setItem("formSubmissions", JSON.stringify(storedData));
   
-    alert("Form saved locally. It will be submitted to the API once it's ready.");
+    alert("Form Submitted Sucessfully!");
   };
 //   api to save data to api
 //   const submitSavedDataToAPI = async () => {
@@ -1232,7 +1232,7 @@ const Form = () => {
           </div>
           <div className="form-item">
             <label className="form-label">
-              State: <span className="required">*</span>
+              State/Province: <span className="required">*</span>
             </label>
             <Select
               options={
