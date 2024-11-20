@@ -1199,7 +1199,7 @@ const Form = () => {
           </div>
           <div className="form-item">
             <label className="form-label">
-              School: <span className="required">*</span>
+              Institute Name: <span className="required">*</span>
             </label>
             <input
               type="text"

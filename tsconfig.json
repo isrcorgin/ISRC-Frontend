@@ -30,6 +30,6 @@
     "src/context/AuthContext.tsx",
     "src/app/about-us/page.tsx",
     "src/components/ProfileView.tsx"
-  ],
+, "src/app/Awards"  ],
   "exclude": ["node_modules"]
 }

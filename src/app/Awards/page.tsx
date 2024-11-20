@@ -1,3 +1,4 @@
+"use client"
 import Form from "@/components/Awards/Form";
 import PageBanner from "@/components/Common/PageBanner";
 import Footer from "@/components/Layouts/Footer";
@@ -16,8 +17,7 @@ const page = () => {
         activePageText="Awards"
         bgImg="/images/main-bg4.webp"
       />
-  
-        <Form />
+        <Form/>
      <Footer/>
     </>
   );
