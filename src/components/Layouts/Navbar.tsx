@@ -119,10 +119,23 @@ const menuItems = (token: string | null): MenuItemType[] => [
     label: (
       <span style={{ display: "inline-block", textAlign: "center" }}>
         {"Verify Certificate"}
-        <br />
       </span>
     ),
     link: "/verify",
+  },
+  {
+    label: (
+      <>
+        Awards
+      </>
+    ),
+    link: "#",
+    subItems: [
+      {
+        label: "Teachers Form",
+        link: "/teachers-form",
+      },
+    ],
   },
 ];
 

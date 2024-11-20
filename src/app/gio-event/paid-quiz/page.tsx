@@ -21,8 +21,7 @@ const Page = () => {
           return;
         }
 
-        // const parsedToken = JSON.parse(storedToken);
-        const token = JSON.parse(localStorage.getItem('token') || 'null');
+        const token = JSON.parse(storedToken); // Corrected this line to use storedToken directly
         
         // Fetch user payment and attempt status from the server
         const { data } = await axios.get(
@@ -33,14 +32,13 @@ const Page = () => {
             },
           }
         );
-        console.log("Juned khan",data);
+        console.log("Juned khan", data);
         
         // Check if the user has paid and can attempt
         if (data.canAttempt) {
           setCanAttempt(true); // User is eligible
         } else {
-          // Router.push('/payment'); // Redirect to payment page if not eligible
-          router.push('/payment-gio')
+          router.push('/payment-gio'); // Redirect to payment page if not eligible
         }
       } catch (error) {
         console.error('Error checking eligibility:', error);
@@ -51,7 +49,7 @@ const Page = () => {
     };
 
     checkUserEligibility();
-  }, []);
+  }, [router]); // Added router as a dependency
 
   if (loading) {
     return <Loading />;  // Use the Loading component while checking eligibility

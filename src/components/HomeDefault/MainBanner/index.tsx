@@ -4,7 +4,7 @@ import React, { useContext, useEffect, useState } from "react";
 import FsLightbox from "fslightbox-react";
 import Link from "next/link";
 import Image from "next/image";
-import Countdown from "./Countdown";
+// import Countdown from "./Countdown";
 import AuthContext, { AuthContextType } from "@/context/AuthContext";
 import { FlagIcon } from "react-flag-kit";
 
@@ -95,9 +95,9 @@ const MainBanner: React.FC = () => {
 
 
 
-        <Countdown endDate="November 15, 2024 17:00:00 GMT"  />
+        {/* <Countdown endDate="November 15, 2024 17:00:00 GMT"  /> */}
         {/* Shape Images */}
-        <div className="shape1">
+        {/* <div className="shape1">
           <Image
             src="/images/shapes/1.png"
             alt="shape1"
@@ -128,7 +128,7 @@ const MainBanner: React.FC = () => {
             width={29}
             height={29}
           />
-        </div>
+        </div> */}
       </div>
     </>
   );
