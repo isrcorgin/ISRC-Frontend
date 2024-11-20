@@ -129,13 +129,8 @@ const menuItems = (token: string | null): MenuItemType[] => [
         {"Awards"}
       </span>
     ),
-    link: "/Awards",
-    // subItems: [
-    //   {
-    //     label: "Teachers Form",
-    //     link: "/teachers-form",
-    //   },
-    // ],
+    link: "/award-nominations",
+   
   },
 ];
 
