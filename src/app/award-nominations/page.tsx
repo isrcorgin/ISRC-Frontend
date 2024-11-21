@@ -10,7 +10,7 @@ const page = () => {
     <>
       <Navbar />
       <PageBanner
-        pageTitle="Awards"
+        pageTitle="Global STEM & Robotics Laureate Awards"
         shortText=""
         homePageUrl="/"
         homePageText="Home"

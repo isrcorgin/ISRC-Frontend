@@ -84,37 +84,37 @@ const menuItems = (token: string | null): MenuItemType[] => [
       },
     ],
   },
-  {
-    label: (
-      <span style={{ display: "inline-block", textAlign: "center" }}>
-        {"Olympiad"}
-        <br />
-      </span>
-    ),
-    link: "/gio-event",
-    subItems: [
-      {
-        label: "Registration",
-        link: "/gio-event",
-      },
-      {
-        label: "View Profile",
-        link: "/gio-event",
-      },
-      {
-        label: "Syllabus",
-        link: "#",
-        subItems: [
-          { label: "5th Std", link: "/rules/syllabus/5TH.pdf", pdfUrl: "/rules/syllabus/5TH.pdf" },
-          { label: "6th Std", link: "/rules/syllabus/6TH.pdf", pdfUrl: "/rules/syllabus/6TH.pdf" },
-          { label: "7th Std", link: "/rules/syllabus/7TH.pdf", pdfUrl: "/rules/syllabus/7TH.pdf" },
-          { label: "8th Std", link: "/rules/syllabus/8TH.pdf", pdfUrl: "/rules/syllabus/8TH.pdf" },
-          { label: "9th Std", link: "/rules/syllabus/9TH.pdf", pdfUrl: "/rules/syllabus/9TH.pdf" },
-          { label: "10th Std", link: "/rules/syllabus/10TH.pdf", pdfUrl: "/rules/syllabus/10TH.pdf" },
-        ],
-      },
-    ],
-  },
+  // {
+  //   label: (
+  //     <span style={{ display: "inline-block", textAlign: "center" }}>
+  //       {"Olympiad"}
+  //       <br />
+  //     </span>
+  //   ),
+  //   link: "/gio-event",
+  //   subItems: [
+  //     {
+  //       label: "Registration",
+  //       link: "/gio-event",
+  //     },
+  //     {
+  //       label: "View Profile",
+  //       link: "/gio-event",
+  //     },
+  //     {
+  //       label: "Syllabus",
+  //       link: "#",
+  //       subItems: [
+  //         { label: "5th Std", link: "/rules/syllabus/5TH.pdf", pdfUrl: "/rules/syllabus/5TH.pdf" },
+  //         { label: "6th Std", link: "/rules/syllabus/6TH.pdf", pdfUrl: "/rules/syllabus/6TH.pdf" },
+  //         { label: "7th Std", link: "/rules/syllabus/7TH.pdf", pdfUrl: "/rules/syllabus/7TH.pdf" },
+  //         { label: "8th Std", link: "/rules/syllabus/8TH.pdf", pdfUrl: "/rules/syllabus/8TH.pdf" },
+  //         { label: "9th Std", link: "/rules/syllabus/9TH.pdf", pdfUrl: "/rules/syllabus/9TH.pdf" },
+  //         { label: "10th Std", link: "/rules/syllabus/10TH.pdf", pdfUrl: "/rules/syllabus/10TH.pdf" },
+  //       ],
+  //     },
+  //   ],
+  // },
   {
     label: (
       <span style={{ display: "inline-block", textAlign: "center" }}>
@@ -379,3 +379,5 @@ const Navbar: React.FC = () => {
 };
 
 export default Navbar;
+
+
