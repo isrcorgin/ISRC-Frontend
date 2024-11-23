@@ -15,7 +15,7 @@ const page = () => {
         homePageUrl="/"
         homePageText="Home"
         activePageText="Awards"
-        bgImg="/images/main-bg4.webp"
+        bgImg="/images/bannerawards.jpg"
       />
         <Form/>
      <Footer/>
