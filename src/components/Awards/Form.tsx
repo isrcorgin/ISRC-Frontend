@@ -3,6 +3,9 @@ import React, { useState } from "react";
 import axios from "axios";
 import Select from "react-select";
 import { Country, State, City } from "country-state-city";
+import { toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
+
 interface Question {
   id: string;
   label: string;
@@ -1351,7 +1354,7 @@ const Form = () => {
       );
 
       if (response.status === 200) {
-        alert("Form Submitted Successfully!");
+        toast.success("Your award form has been submitted successfully!");
         // Optionally clear the form or reset state here
         setFormData({
           firstName: "",
@@ -1374,7 +1377,7 @@ const Form = () => {
     } catch (error: any) {
       console.error("Error submitting form:", error);
       // Show error message to the user
-      alert(
+      toast.error(
         error.response?.data?.message ||
           "An error occurred while submitting the form."
       );
