@@ -1345,7 +1345,7 @@ const Form = () => {
     try {
       // Make POST request with Axios
       const response = await axios.post(
-        `http://localhost:5000/api/awards/submit-form`,
+        `${process.env.NEXT_PUBLIC_API_HOSTNAME}/api/awards/submit-form`,
         finalData,
         {
           headers: {
