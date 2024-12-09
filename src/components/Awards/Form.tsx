@@ -4,7 +4,7 @@ import axios from "axios";
 import Select from "react-select";
 import { Country, State, City } from "country-state-city";
 import { toast } from "react-toastify";
-import 'react-toastify/dist/ReactToastify.css';
+import "react-toastify/dist/ReactToastify.css";
 
 interface Question {
   id: string;
@@ -1334,17 +1334,18 @@ const Form = () => {
     // Validate fields
     if (!validateFields()) return;
 
-    // Prepare final data
+    // Combine form data, award category, and dynamically added questions
     const finalData = {
       ...formData,
       awardCategory: selectedAwardCategory,
-      ...awardData,
+      subAward: selectedSubAward,
+      awardDetails: awardData, // Include dynamic award-specific details
     };
 
     try {
       // Make POST request with Axios
       const response = await axios.post(
-        `${process.env.NEXT_PUBLIC_API_HOSTNAME}/api/awards/submit-form`,
+        `http://localhost:5000/api/awards/submit-form`,
         finalData,
         {
           headers: {
@@ -1355,7 +1356,8 @@ const Form = () => {
 
       if (response.status === 200) {
         toast.success("Your award form has been submitted successfully!");
-        // Optionally clear the form or reset state here
+
+        // Reset form state
         setFormData({
           firstName: "",
           lastName: "",
@@ -1372,11 +1374,13 @@ const Form = () => {
           isWhatsappSame: false,
         });
         setSelectedAwardCategory("");
+        setSelectedSubAward(null);
         setAwardData({});
       }
     } catch (error: any) {
       console.error("Error submitting form:", error);
-      // Show error message to the user
+
+      // Show error notification
       toast.error(
         error.response?.data?.message ||
           "An error occurred while submitting the form."
